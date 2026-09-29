@@ -1069,11 +1069,11 @@
       },
       {
         "command": "cloud:dry-run",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estágio Governança de TI Belo Horizonte MG\", \"Estágio Governança de TI Contagem MG\", \"Estágio Governança de TI Nova Lima MG\", \"Estágio Governança de TI remoto Brasil\", \"Estagiário Governança de TI Belo Horizonte MG\", \"Estagiário Governança de TI Contagem MG\", \"Estagiário Governança de TI Nova Lima MG\", \"Estagiário Governança de TI remoto Brasil\", \"Estágio IT Governance Belo Horizonte MG\", \"Estágio IT Governance Contagem MG\", \"Estágio IT Governance Nova Lima MG\", \"Estágio IT Governance remoto Brasil\", \"IT Governance Intern Belo Horizonte MG\", \"IT Governance Intern Contagem MG\", \"IT Governance Intern Nova Lima MG\", \"IT Governance Intern remoto Brasil\"], \"errors\": 0, \"urls\": [\"https://www.indeed.com/career-advice/resumes-cover-letters/how-to-write-a-cover-letter\", \"https://www.indeed.com/career-advice/resumes-cover-letters/what-is-a-cover-letter\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 38, \"fetch_errors\": 2, \"eligible\": 1, \"rejected\": 19, \"pending\": 18, \"new_jobs\": 1, \"sent\": false, \"preview\": \"data/preview.txt\"}",
+        "finished": "2026-09-29T00:26:38.965861+00:00",
         "id": 14,
         "started": "2026-09-29T00:26:14.678463+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": []
