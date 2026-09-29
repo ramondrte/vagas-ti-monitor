@@ -107,4 +107,16 @@ python3 cloud_run.py --local-test --mode dry-run --queries 4 --pages 8
 
 O teste local deve usar MONITOR_ROOT apontando para pasta temporária com config.json para não alterar a base local original. Testes automatizados não exigem Secrets. Validação adicional do YAML: actionlint .github/workflows/monitor-vagas.yml.
 
-Na migração, os testes locais passaram, actionlint aprovou o workflow e uma busca real encontrou 40 links em quatro listagens oficiais, com oito anúncios analisados. **Isso não substitui o teste no runner real e o aceite SMTP com Secrets.** O cron só deve ser liberado após as verificações da primeira execução descritas acima.
+Na migração, os testes locais passaram, actionlint aprovou o workflow e uma busca real encontrou 40 links em quatro listagens oficiais, com oito anúncios analisados. A validação posterior no runner real e com SMTP está registrada abaixo.
+
+## Validação na nuvem — 28/09/2026
+
+- [Execução #1](https://github.com/ramondrte/vagas-ti-monitor/actions/runs/36503069582): bootstrap e busca real aprovados; branch monitor-state criada e aliases originais preservados.
+- [Execução #2](https://github.com/ramondrte/vagas-ti-monitor/actions/runs/36503337892): 49 testes aprovados, estado restaurado em novo runner e e-mail de teste aceito pelo Gmail.
+- [Execução #3](https://github.com/ramondrte/vagas-ti-monitor/actions/runs/36503524450): um resumo com uma vaga nova aceito pelo SMTP e registrado em sent.
+
+Os logs inspecionados exibem os Secrets como `***`. Nenhuma credencial foi incluída nos arquivos publicados. O repositório contém somente código/testes, configuração/documentação e histórico público.
+
+- [Execução #4](https://github.com/ramondrte/vagas-ti-monitor/actions/runs/36503644788): 49 testes aprovados, zero vagas novas e nenhum e-mail enviado. Histórico remoto conservou exatamente um envio de vaga e o teste SMTP separado.
+
+Agendamento ativado em 28/09/2026 às 21h34 (Brasília), após os quatro testes: variável MONITOR_ENABLED=true. Execução a cada hora, no minuto 17. Primeira janela prevista após ativação: 28/09/2026 às 22h17 (Brasília), sujeita a atrasos do GitHub. O computador local pode permanecer desligado.
