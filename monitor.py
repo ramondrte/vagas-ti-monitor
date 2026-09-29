@@ -109,12 +109,14 @@ def ingest(c,records,config):
    text=norm(json.loads(doc['document'])['text'])
    if re.search(r'candidaturas encerradas|inscricoes encerradas|vaga (encerrada|finalizada)',text):raise ValueError('Página informa encerramento')
    if norm(j['evidence']['open']) not in text:raise ValueError('Evidência de abertura ausente da página')
-  aliases=['url:'+j['url'],'tuple:'+digest([norm(j['company']),norm(j['title']),norm(j['location'])])]
+  aliases=['url:'+j['url']]
+  if all(not norm(j[k]).startswith('nao informado') for k in ['company','title','location']):
+   aliases.append('tuple:'+digest([norm(j['company']),norm(j['title']),norm(j['location'])]))
   aliases+=['url:'+canonical(u) for u in j.get('alternate_urls',[])]
   if j.get('job_id'): aliases+=['id:'+norm(j['company'])+':'+str(j['job_id'])]
   ids={r[0] for a in aliases for r in c.execute('SELECT job_id FROM aliases WHERE alias=?',(a,))}
   if len(ids)>1: raise ValueError('Identidades conflitantes; revisar antes de enviar')
-  jid=next(iter(ids),digest(aliases[1])); old=c.execute('SELECT first_seen FROM jobs WHERE id=?',(jid,)).fetchone()
+  jid=next(iter(ids),digest(aliases[-1])); old=c.execute('SELECT first_seen FROM jobs WHERE id=?',(jid,)).fetchone()
   first=old[0] if old else now();j['found_at']=first
   # Datas de coleta e fontes não são mudanças significativas.
   fp=digest({k:norm(j.get(k,UNKNOWN)) for k in ['title','location','modality','area','salary','benefits','hours','course','semester','graduation','activities','requirements','desirable','deadline']})

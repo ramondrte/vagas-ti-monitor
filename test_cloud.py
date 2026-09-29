@@ -39,9 +39,23 @@ class RulesTests(unittest.TestCase):
  def test_education_exclusive(self):
   d=doc();d['job_postings'][0]['description']=d['job_postings'][0]['description'].replace('Sistemas de Informação','Engenharia Elétrica');self.assertEqual(extract(d,CONFIG)['status'],'pending')
 
+class MetadataTests(unittest.TestCase):
+ def test_location_change_not_reused(self):
+  original=extract(doc(),CONFIG)
+  changed=extract(doc(city='Contagem'),CONFIG)
+  self.assertNotEqual(original['location'],changed['location'])
+ def test_deterministic_analysis(self):
+  a=extract(doc(),CONFIG);b=extract(doc(),CONFIG)
+  for j in [a,b]:j.pop('verified_at')
+  self.assertEqual(a,b)
+
 class PersistenceTests(unittest.TestCase):
  def setUp(self):self.temp=tempfile.TemporaryDirectory();self.c=m.connect(Path(self.temp.name))
  def tearDown(self):self.c.close();self.temp.cleanup()
+ def test_unknown_records_not_merged(self):
+  for url in ['https://example.com/job/a','https://example.com/job/b']:
+   m.ingest(self.c,[dict(company='Não informado',title='Não informado',location=m.UNKNOWN,url=url,status='pending',reason='Sem dados')],CONFIG)
+  self.assertEqual(self.c.execute('SELECT COUNT(*) FROM jobs').fetchone()[0],2)
  def test_round_trip_sent(self):
   self.c.execute('INSERT INTO sent VALUES(?,?,?,?)',('id','hash','delivery',m.now()));self.c.commit();data=dump(self.c);restore(self.c,data);self.assertEqual(self.c.execute('SELECT job_id FROM sent').fetchone()[0],'id')
  def test_corrupt_never_clears(self):

@@ -33,12 +33,6 @@ def collect(c,config,query_limit=16,page_limit=40):
   url=row['url']
   try:
    doc=m.fetch(c,url);j=extract(doc,config)
-   previous=c.execute('SELECT j.record FROM jobs j JOIN aliases a ON a.job_id=j.id WHERE a.alias=?',('url:'+m.canonical(url),)).fetchone()
-   if previous and j['status']=='eligible':
-    old=json.loads(previous[0])
-    # Migração preserva impressão/redaçao legada quando descrição e condições oficiais não mudaram.
-    if old.get('description_hash')==j.get('description_hash') and old.get('deadline_iso')==j.get('deadline_iso') and old.get('status')=='eligible':
-     old.update(verified_at=m.now(),evidence=j['evidence'],application_url=j['application_url'],description_reviewed=True);j=old
    m.ingest(c,[j],config);report['fetched']+=1;report[j['status']]+=1
   except Exception as e:
    report['fetch_errors']+=1;m.logging.warning('Anúncio não processado (%s)',type(e).__name__)
