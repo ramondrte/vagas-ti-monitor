@@ -1389,11 +1389,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Network Intern Belo Horizonte MG\", \"Network Intern Contagem MG\", \"Network Intern Nova Lima MG\", \"Network Intern remoto Brasil\", \"Estágio Cloud Belo Horizonte MG\", \"Estágio Cloud Contagem MG\", \"Estágio Cloud Nova Lima MG\", \"Estágio Cloud remoto Brasil\", \"Cloud Intern Belo Horizonte MG\", \"Cloud Intern Contagem MG\", \"Cloud Intern Nova Lima MG\", \"Cloud Intern remoto Brasil\", \"Cloud Infrastructure Intern Belo Horizonte MG\", \"Cloud Infrastructure Intern Contagem MG\", \"Cloud Infrastructure Intern Nova Lima MG\", \"Cloud Infrastructure Intern remoto Brasil\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 38, \"fetch_errors\": 2, \"eligible\": 1, \"rejected\": 21, \"pending\": 16, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-09-29T19:28:30.892046+00:00",
         "id": 20,
         "started": "2026-09-29T19:28:07.174554+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
