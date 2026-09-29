@@ -1,0 +1,207 @@
+{
+  "schema": 1,
+  "tables": {
+    "aliases": [
+      {
+        "alias": "id:santa casa bh:12546963",
+        "job_id": "5dc9b6adfef864b755e785e35d51b161a73d98c23495074aab6e76e82466af67"
+      },
+      {
+        "alias": "tuple:4bde7225c268e5a1a789dfdafd82b8867dadad0f73a7189bb0c04af15e248660",
+        "job_id": "3a0adf88fc5c73db8a269835d7f7e16b6e02c38bbddcc2880fd608426d13534d"
+      },
+      {
+        "alias": "tuple:915e0718dfa14c82d1bf0711b371ea4f843e622b26181df4daf2a9f62b7d4726",
+        "job_id": "ecd626629f622df25e7f68e605c4f3f85eb908214d85f7620acc0fecd5cc3fce"
+      },
+      {
+        "alias": "tuple:cf3882535d1ef9f9addef9d329845ad9ce258e0fb62e3427cb3ee3b4bd9a6f42",
+        "job_id": "5dc9b6adfef864b755e785e35d51b161a73d98c23495074aab6e76e82466af67"
+      },
+      {
+        "alias": "url:https://cadastra.gupy.io/jobs/12437989",
+        "job_id": "3a0adf88fc5c73db8a269835d7f7e16b6e02c38bbddcc2880fd608426d13534d"
+      },
+      {
+        "alias": "url:https://programadeestagiosantacasabh.gupy.io/jobs/12546963",
+        "job_id": "5dc9b6adfef864b755e785e35d51b161a73d98c23495074aab6e76e82466af67"
+      },
+      {
+        "alias": "url:https://vinci-energies.gupy.io/jobs/11715672",
+        "job_id": "ecd626629f622df25e7f68e605c4f3f85eb908214d85f7620acc0fecd5cc3fce"
+      }
+    ],
+    "candidates": [
+      {
+        "document": null,
+        "error": null,
+        "first_seen": "2026-09-29T00:04:36.766679+00:00",
+        "last_seen": "2026-09-29T00:04:36.766679+00:00",
+        "source": "Página oficial",
+        "url": "https://cadastra.gupy.io/jobs/12437989"
+      },
+      {
+        "document": null,
+        "error": null,
+        "first_seen": "2026-09-29T00:02:38.817206+00:00",
+        "last_seen": "2026-09-29T00:02:38.817227+00:00",
+        "source": "Bing RSS: Estágio Governança de TI Belo Horizonte MG",
+        "url": "https://portal.ciee.org.br"
+      },
+      {
+        "document": null,
+        "error": null,
+        "first_seen": "2026-09-29T00:02:09.327616+00:00",
+        "last_seen": "2026-09-29T00:02:09.327616+00:00",
+        "source": "Página oficial",
+        "url": "https://programadeestagiosantacasabh.gupy.io/jobs/12546963"
+      },
+      {
+        "document": null,
+        "error": null,
+        "first_seen": "2026-09-29T00:04:37.697439+00:00",
+        "last_seen": "2026-09-29T00:04:37.697439+00:00",
+        "source": "Página oficial",
+        "url": "https://vinci-energies.gupy.io/jobs/11715672"
+      }
+    ],
+    "deliveries": [],
+    "jobs": [
+      {
+        "fingerprint": "05c7278a3ace8bcc1e78d372b8cb007ca9f8f0f7756d3de18a9350951cb03523",
+        "first_seen": "2026-09-29T00:05:04.134317+00:00",
+        "id": "3a0adf88fc5c73db8a269835d7f7e16b6e02c38bbddcc2880fd608426d13534d",
+        "last_seen": "2026-09-29T00:05:04.134363+00:00",
+        "reason": "Híbrido com presença obrigatória em São Paulo, fora das localidades aceitas.",
+        "record": "{\"company\": \"Cadastra\", \"title\": \"Estágio em Audiovisual e Infraestrutura de TI -SP\", \"location\": \"São Paulo/SP\", \"url\": \"https://cadastra.gupy.io/jobs/12437989\", \"status\": \"rejected\", \"reason\": \"Híbrido com presença obrigatória em São Paulo, fora das localidades aceitas.\", \"found_at\": \"2026-09-29T00:05:04.134317+00:00\"}",
+        "status": "rejected"
+      },
+      {
+        "fingerprint": "75f4515329d028b5a24d7c0800188a1386aed485d2db9cd254739e1416cc9f69",
+        "first_seen": "2026-09-29T00:03:29.524912+00:00",
+        "id": "5dc9b6adfef864b755e785e35d51b161a73d98c23495074aab6e76e82466af67",
+        "last_seen": "2026-09-29T00:03:29.525065+00:00",
+        "reason": "Estágio em infraestrutura com atividades de governança, curso aceito e localização válida.",
+        "record": "{\"company\": \"Santa Casa BH\", \"title\": \"Estágio Nível Superior - Governança e Infraestrutura de TI\", \"location\": \"Belo Horizonte/MG\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Infraestrutura / Cloud\", \"salary\": \"R$ 1.000,00\", \"benefits\": \"Vale-transporte e seguro de vida\", \"hours\": \"07h às 13h, segunda a sexta-feira (30h semanais)\", \"course\": \"Sistemas de Informação, TI, Ciência da Computação, Engenharia da Computação ou áreas correlatas, cursando\", \"semester\": \"Inicial — mínimo e máximo numéricos não informados / precisa confirmar se inclui o 3º semestre\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Apoio a redes, servidores, monitoramento, permissões de acesso, inventário, documentação e atendimento N1; análise de incidentes e chamados.\", \"requirements\": \"Cursando ensino superior nas áreas indicadas.\", \"desirable\": \"Redes de Computadores\", \"deadline\": \"07/11/2026 (metadados oficiais)\", \"published\": \"23/09/2026 (metadados oficiais)\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/12546963\", \"source\": \"Página oficial Santa Casa BH na Gupy\", \"found_at\": \"2026-09-29T00:03:29.524912+00:00\", \"compatibility\": \"As atividades têm foco em infraestrutura, monitoramento, suporte N1 e incidentes. Gestão de acessos, inventário e documentação também se relacionam à governança de TI. O curso é aceito; a definição de período inicial e a modalidade precisam de confirmação.\", \"status\": \"eligible\", \"reason\": \"Estágio em infraestrutura com atividades de governança, curso aceito e localização válida.\", \"job_id\": \"12546963\", \"official\": true, \"application_url\": \"https://programadeestagiosantacasabh.gupy.io/candidates/jobs/12546963/apply\", \"verified_at\": \"2026-09-29T00:03:19.907676+00:00\", \"closed\": false, \"degree_required\": false, \"experience_years\": 0, \"remote\": false, \"deadline_iso\": \"2026-11-07\", \"kind\": \"internship\", \"description_reviewed\": true, \"description_hash\": \"41c89770c09c1779e90740fe2bc16ea1ee9b7824f654d0570cbf12067ce98a9e\", \"evidence\": {\"open\": \"Candidatar-se\", \"location\": \"Avenida Francisco Sales, 1111, Belo Horizonte, Minas Gerais, Brasil, 30150-221\", \"level\": \"Estágio Nível Superior\", \"area\": \"Auxiliar no monitoramento de servidores, serviços e sistemas corporativos\", \"course\": \"Sistemas de Informação\", \"semester\": \"Período(os): Inicial\", \"requirements\": \"Obrigatório: Cursando Ensino Superior\"}}",
+        "status": "eligible"
+      },
+      {
+        "fingerprint": "000fd6466783e5e5f4214c92c814943a0d1cde6f9f2993541db0452b9094fea7",
+        "first_seen": "2026-09-29T00:05:04.134526+00:00",
+        "id": "ecd626629f622df25e7f68e605c4f3f85eb908214d85f7620acc0fecd5cc3fce",
+        "last_seen": "2026-09-29T00:05:04.134558+00:00",
+        "reason": "Candidaturas encerradas confirmado na página oficial. Além disso exige Engenharia Elétrica/Automação e não é estágio de TI.",
+        "record": "{\"company\": \"Actemium / VINCI Energies\", \"title\": \"Estágio Engenharia_ Planejamento Estágio\", \"location\": \"Contagem/MG\", \"url\": \"https://vinci-energies.gupy.io/jobs/11715672\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas confirmado na página oficial. Além disso exige Engenharia Elétrica/Automação e não é estágio de TI.\", \"found_at\": \"2026-09-29T00:05:04.134526+00:00\"}",
+        "status": "rejected"
+      }
+    ],
+    "meta": [],
+    "runs": [
+      {
+        "command": "fetch",
+        "detail": "{\"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/12546963\", \"fetched_at\": \"2026-09-29T00:02:09.327616+00:00\", \"job_postings\": [{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2026-09-23\", \"description\": \"<h2>Descrição da vaga</h2><p><p>Apoiar as atividades de infraestrutura de TI e suporte a sistemas, contribuindo para a manutenção, disponibilidade, segurança e melhoria contínua do ambiente tecnológico da organização. Atua sob orientação da equipe técnica, acompanhando rotinas de suporte, administração de redes, servidores, sistemas corporativos e atendimento aos usuários.</p><p><strong>Horário: </strong>07h às 13h de segunda a sexta</p><p><strong>Bolsa: </strong>R$1.000,00</p><p><strong>Benefícios:</strong></p><p>Vale-transporte</p><p>Seguro de vida</p></p><br><br><h2>Responsabilidades e atribuições</h2><p><li>Auxiliar na instalação, configuração e manutenção de equipamentos de informática (estações de trabalho, notebooks, impressoras e periféricos);</li>\\n<li>Apoiar na administração básica de redes (cabeamento estruturado, switches, pontos de rede e conectividade);</li>\\n<li>Auxiliar no monitoramento de servidores, serviços e sistemas corporativos;</li>\\n<li>Apoiar na gestão de usuários (criação, alteração e exclusão de acessos, permissões e grupos);</li>\\n<li>Colaborar na atualização e aplicação de patches e rotinas de segurança;</li>\\n<li>Auxiliar na documentação de procedimentos técnicos, inventário de ativos e rotinas de infraestrutura;</li>\\n<li>Apoiar no atendimento técnico de 1º nível aos usuários, sob supervisão;</li>\\n<li>Colaborar na análise e solução de incidentes e chamados relacionados à infraestrutura e sistemas.</li></p><br><br><h2>Requisitos e qualificações</h2><p>\\n<span style=\\\"color:rgb(0, 0, 0);font-family:&quot;Open Sans&quot;, sans-serif;font-size:17.3333px;text-align:left;background-color:rgb(255, 255, 255)\\\">Obrigatório: Cursando Ensino Superior em Tecnologia da Informação, Sistemas de Informação, Ciência d",
+        "finished": "2026-09-29T00:02:10.065520+00:00",
+        "id": 1,
+        "started": "2026-09-29T00:02:09.326851+00:00",
+        "status": "ok"
+      },
+      {
+        "command": "discover",
+        "detail": "{\"queries\": 8, \"errors\": 0, \"urls\": [\"https://portal.ciee.org.br\"], \"note\": \"Resultados precisam de leitura e validação. RSS pode retornar poucos resultados; usar pesquisa web alternativa.\"}",
+        "finished": "2026-09-29T00:02:44.900180+00:00",
+        "id": 2,
+        "started": "2026-09-29T00:02:38.527263+00:00",
+        "status": "ok"
+      },
+      {
+        "command": "ingest",
+        "detail": "OperationalError",
+        "finished": "2026-09-29T00:03:19.970874+00:00",
+        "id": 3,
+        "started": "2026-09-29T00:03:19.968858+00:00",
+        "status": "error"
+      },
+      {
+        "command": "preview",
+        "detail": "{\"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-09-29T00:03:20.031404+00:00",
+        "id": 4,
+        "started": "2026-09-29T00:03:20.030904+00:00",
+        "status": "ok"
+      },
+      {
+        "command": "ingest",
+        "detail": "{\"processed\": 1}",
+        "finished": "2026-09-29T00:03:29.525607+00:00",
+        "id": 5,
+        "started": "2026-09-29T00:03:29.521364+00:00",
+        "status": "ok"
+      },
+      {
+        "command": "preview",
+        "detail": "{\"new_jobs\": 1, \"sent\": false, \"preview\": \"data/preview.txt\"}",
+        "finished": "2026-09-29T00:03:29.592246+00:00",
+        "id": 6,
+        "started": "2026-09-29T00:03:29.591267+00:00",
+        "status": "ok"
+      },
+      {
+        "command": "test-email",
+        "detail": "ValueError",
+        "finished": "2026-09-29T00:04:17.413319+00:00",
+        "id": 7,
+        "started": "2026-09-29T00:04:17.412292+00:00",
+        "status": "error"
+      },
+      {
+        "command": "fetch",
+        "detail": "{\"url\": \"https://cadastra.gupy.io/jobs/12437989\", \"fetched_at\": \"2026-09-29T00:04:36.766679+00:00\", \"job_postings\": [{\"@context\": \"http://schema.org\", \"@type\": \"JobPosting\", \"datePosted\": \"2026-09-11\", \"description\": \"<h2>Descrição da vaga</h2><p><p style=\\\"font-size:16px;font-family:Inter, sans-serif;color:rgb(0, 0, 0);text-align:left;background-color:rgb(249, 249, 249)\\\">Quer fazer a diferença na nova economia e transformar pessoas e negócios para prosperarem? Vem pra Cadastra!</p><br style=\\\"color:rgb(0, 0, 0);font-family:Inter, sans-serif;font-size:16px;text-align:left;background-color:rgb(249, 249, 249)\\\"><p style=\\\"text-align: left; background-color: rgb(249, 249, 249);\\\"><font color=\\\"#000000\\\">Como <b>Estágio em Audiovisual e Infraestrutura de TI</b></font><font color=\\\"#000000\\\">, você será responsável por dar\\nsuporte e manutenção de salas de conferência e equipamentos de videoconferência; diagnóstico e resolução de problemas de áudio, vídeo e conectividade; apoio básico em infraestrutura de redes, cabeamento e organização de racks; suporte presencial aos usuários em reuniões e eventos; manutenção de periféricos e apoio na organização de inventários e documentações técnicas.\\n\\n<br></font></p><br style=\\\"color:rgb(0, 0, 0);font-family:Inter, sans-serif;font-size:16px;text-align:left;background-color:rgb(249, 249, 249)\\\"><p style=\\\"font-size:16px;font-family:Inter, sans-serif;color:rgb(0, 0, 0);text-align:left;background-color:rgb(249, 249, 249)\\\">Essa posição é para atuar de forma&nbsp;<strong style=\\\"font-size:inherit;font-family:inherit\\\">híbrida, sendo 3 dias presenciais e 2 dias remotos</strong>&nbsp;em nossa sede de&nbsp;<strong style=\\\"font-size:inherit;font-family:inherit\\\">São Paulo.</strong></p>\\n\\n<p><br></p>\\n\\n<br></p><br><br><h2>Responsabilidades e atribuições</h2><p><h3 data-path-to-node=\\\"0\\\">Audiovisual e Videoconferência (AV / UC)</h3><ul data-path-to-node=\\\"1\\\"><li><strong data-path-to-node=\\\"1,0,0\\\" data-index-in-node=\\\"0\\\">Health Check ",
+        "finished": "2026-09-29T00:04:37.612037+00:00",
+        "id": 8,
+        "started": "2026-09-29T00:04:36.765641+00:00",
+        "status": "ok"
+      },
+      {
+        "command": "fetch",
+        "detail": "{\"url\": \"https://vinci-energies.gupy.io/jobs/11715672\", \"fetched_at\": \"2026-09-29T00:04:37.697439+00:00\", \"job_postings\": [], \"text\": \"Página da Vaga | Estágio Engenharia_ Planejamento Estágio Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Candidaturas encerradas Estágio Engenharia_ Planejamento Estágio Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A expertise da Actemium abrange todo o ciclo de vida industrial, desde o projeto e engenharia até a execução e manutenção. Nossa experiência e trabalho em rede nos permitem desenvolver soluções e serviços adequadas a cada tipo de projeto. Aqui no Brasil, atuamos nos segmentos de óleo & gás onshore e offshore, mineração, metais, indústria pesada, infraestrutura e fabricação de painéis elétricos. Em todos eles, desenvolvemos soluções eficientes e customizadas com base em um compromisso de longo prazo com as empresas públicas e privadas de cada setor. Junte-se a nós! #VemSerActemium #VenhaTrabalharConosco Responsabilidades e atribuições Sobre o Programa: Principais Responsabilidades e Atribuições: Apoio à organização, arquivamento e controle de documentos da área, garantindo a manutenção do acervo físico e eletrônico. Suporte no atendimento a clientes internos e/ou externos, colaborando para responder demandas, fornecendo informações e dúvidas claras. Participação em projetos diversos da área, auxiliando em análises, planejamento e execução das tarefas. Auxílio na elaboração, envio e análise de relatórios, garantindo informações confiáveis para apoiar uma tomada de decisão. Apoio às atividades administrativas, contribuindo para o bom funcionamento dos processos internos. Apoio na formatação de propostas técnicas e comerciais da unidade. Apoio em cotações com fornecedores. Preenchimento de planilhas de composição de preços. Levantamento de quantitativos de materiais. Requisitos e qualificações Estar cursando Engenharia Elétrica ou Engenharia de ",
+        "finished": "2026-09-29T00:04:38.422478+00:00",
+        "id": 9,
+        "started": "2026-09-29T00:04:37.696820+00:00",
+        "status": "ok"
+      },
+      {
+        "command": "ingest",
+        "detail": "FileNotFoundError",
+        "finished": "2026-09-29T00:04:38.546774+00:00",
+        "id": 10,
+        "started": "2026-09-29T00:04:38.546218+00:00",
+        "status": "error"
+      },
+      {
+        "command": "ingest",
+        "detail": "{\"processed\": 2}",
+        "finished": "2026-09-29T00:05:04.134865+00:00",
+        "id": 11,
+        "started": "2026-09-29T00:05:04.132738+00:00",
+        "status": "ok"
+      },
+      {
+        "command": "test-email",
+        "detail": "ValueError",
+        "finished": "2026-09-29T00:05:04.195963+00:00",
+        "id": 12,
+        "started": "2026-09-29T00:05:04.195469+00:00",
+        "status": "error"
+      },
+      {
+        "command": "status",
+        "detail": "{\"candidates\": 4, \"jobs\": 3, \"sent\": 0, \"deliveries\": 0, \"runs\": 13}",
+        "finished": "2026-09-29T00:08:58.457393+00:00",
+        "id": 13,
+        "started": "2026-09-29T00:08:58.454396+00:00",
+        "status": "ok"
+      }
+    ],
+    "sent": []
+  }
+}

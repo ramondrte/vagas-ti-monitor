@@ -1,0 +1,494 @@
+# Termos e cobertura configurada
+
+As consultas são alternadas ao longo das execuções; não representam fontes já verificadas.
+
+## Governança de TI
+
+- Estágio Governança de TI
+- Estagiário Governança de TI
+- Estágio IT Governance
+- IT Governance Intern
+- Estágio Gestão de TI
+- Estágio Gestão de Serviços de TI
+- Estágio ITSM
+- ITSM Intern
+- Estágio Processos de TI
+- Estágio Controles de TI
+- Estágio Riscos de TI
+- Estágio Compliance de TI
+- Estágio Auditoria de TI
+- Estágio Gestão de Incidentes
+- Incident Management Intern
+- Estágio Change Management
+- Estágio Gestão de Mudanças
+- Estágio Service Management
+- IT Service Management Intern
+
+## Infraestrutura / Cloud
+
+- Estágio Infraestrutura de TI
+- Estagiário de Infraestrutura
+- Infrastructure Intern
+- IT Infrastructure Intern
+- Estágio Redes
+- Network Intern
+- Estágio Cloud
+- Cloud Intern
+- Cloud Infrastructure Intern
+- Estágio Sistemas
+- Systems Intern
+
+## NOC / Monitoramento
+
+- Estágio NOC
+- NOC Intern
+- Estágio Monitoramento
+- Monitoring Intern
+
+## Suporte / ITSM
+
+- Estágio Suporte de TI
+- Estágio Suporte Técnico
+- Estagiário de Suporte
+- IT Support Intern
+- Technical Support Intern
+- Help Desk Intern
+- Service Desk Intern
+- Estágio Service Desk
+- Estágio Help Desk
+
+## Operações de TI
+
+- Estágio Operações de TI
+- IT Operations Intern
+- Technology Operations Intern
+- Infrastructure Operations Intern
+
+## Segurança / GRC
+
+- Estágio Segurança da Informação
+- Information Security Intern
+- Cybersecurity Intern
+- Security Operations Intern
+- SOC Intern
+- GRC Intern
+- Cybersecurity GRC Intern
+- IT Risk Intern
+- Technology Risk Intern
+
+## Genéricos
+
+- Estagiário de Tecnologia
+- Technology Intern
+- IT Intern
+- Estagiário de Sistemas
+- Estágio Corporativo em Tecnologia
+
+## Entrada
+
+- Analista Júnior TI
+- Assistente de TI
+- Técnico de Suporte
+- Operador de NOC
+- Suporte N1
+- Suporte N2
+- Analista de Suporte Júnior
+- Analista de Infraestrutura Júnior
+- Analista de Monitoramento Júnior
+- Analista de Operações de TI Júnior
+- Analista de ITSM Júnior
+- Analista de Governança de TI Júnior
+- Assistente Governança Riscos Compliance TI
+- Analista Júnior Governança Riscos Compliance TI
+
+## Palavras associadas
+
+IT Governance, ITSM, gestão de serviços de TI, gestão de incidentes, gestão de problemas, gestão de mudanças, Change Management, SLA, indicadores de TI, KPI, processos de TI, melhoria contínua, gestão de fornecedores de TI, gestão de contratos de TI, controles internos de TI, riscos de TI, compliance de TI, auditoria de TI, controles de acesso, políticas e procedimentos de TI, continuidade de serviços, gestão de ativos de TI, CMDB, ITIL, ISO 20000, ISO 27001, COBIT, monitoramento, Zabbix, Grafana, observabilidade, troubleshooting, redes, Windows, Linux, servidores, cloud, AWS, Azure, Microsoft 365, Active Directory, chamados, incidentes, escalonamento, N1, N2, suporte técnico
+
+## Todas as consultas
+
+- Estágio Governança de TI Belo Horizonte MG
+- Estágio Governança de TI Contagem MG
+- Estágio Governança de TI Nova Lima MG
+- Estágio Governança de TI remoto Brasil
+- Estagiário Governança de TI Belo Horizonte MG
+- Estagiário Governança de TI Contagem MG
+- Estagiário Governança de TI Nova Lima MG
+- Estagiário Governança de TI remoto Brasil
+- Estágio IT Governance Belo Horizonte MG
+- Estágio IT Governance Contagem MG
+- Estágio IT Governance Nova Lima MG
+- Estágio IT Governance remoto Brasil
+- IT Governance Intern Belo Horizonte MG
+- IT Governance Intern Contagem MG
+- IT Governance Intern Nova Lima MG
+- IT Governance Intern remoto Brasil
+- Estágio Gestão de TI Belo Horizonte MG
+- Estágio Gestão de TI Contagem MG
+- Estágio Gestão de TI Nova Lima MG
+- Estágio Gestão de TI remoto Brasil
+- Estágio Gestão de Serviços de TI Belo Horizonte MG
+- Estágio Gestão de Serviços de TI Contagem MG
+- Estágio Gestão de Serviços de TI Nova Lima MG
+- Estágio Gestão de Serviços de TI remoto Brasil
+- Estágio ITSM Belo Horizonte MG
+- Estágio ITSM Contagem MG
+- Estágio ITSM Nova Lima MG
+- Estágio ITSM remoto Brasil
+- ITSM Intern Belo Horizonte MG
+- ITSM Intern Contagem MG
+- ITSM Intern Nova Lima MG
+- ITSM Intern remoto Brasil
+- Estágio Processos de TI Belo Horizonte MG
+- Estágio Processos de TI Contagem MG
+- Estágio Processos de TI Nova Lima MG
+- Estágio Processos de TI remoto Brasil
+- Estágio Controles de TI Belo Horizonte MG
+- Estágio Controles de TI Contagem MG
+- Estágio Controles de TI Nova Lima MG
+- Estágio Controles de TI remoto Brasil
+- Estágio Riscos de TI Belo Horizonte MG
+- Estágio Riscos de TI Contagem MG
+- Estágio Riscos de TI Nova Lima MG
+- Estágio Riscos de TI remoto Brasil
+- Estágio Compliance de TI Belo Horizonte MG
+- Estágio Compliance de TI Contagem MG
+- Estágio Compliance de TI Nova Lima MG
+- Estágio Compliance de TI remoto Brasil
+- Estágio Auditoria de TI Belo Horizonte MG
+- Estágio Auditoria de TI Contagem MG
+- Estágio Auditoria de TI Nova Lima MG
+- Estágio Auditoria de TI remoto Brasil
+- Estágio Gestão de Incidentes Belo Horizonte MG
+- Estágio Gestão de Incidentes Contagem MG
+- Estágio Gestão de Incidentes Nova Lima MG
+- Estágio Gestão de Incidentes remoto Brasil
+- Incident Management Intern Belo Horizonte MG
+- Incident Management Intern Contagem MG
+- Incident Management Intern Nova Lima MG
+- Incident Management Intern remoto Brasil
+- Estágio Change Management Belo Horizonte MG
+- Estágio Change Management Contagem MG
+- Estágio Change Management Nova Lima MG
+- Estágio Change Management remoto Brasil
+- Estágio Gestão de Mudanças Belo Horizonte MG
+- Estágio Gestão de Mudanças Contagem MG
+- Estágio Gestão de Mudanças Nova Lima MG
+- Estágio Gestão de Mudanças remoto Brasil
+- Estágio Service Management Belo Horizonte MG
+- Estágio Service Management Contagem MG
+- Estágio Service Management Nova Lima MG
+- Estágio Service Management remoto Brasil
+- IT Service Management Intern Belo Horizonte MG
+- IT Service Management Intern Contagem MG
+- IT Service Management Intern Nova Lima MG
+- IT Service Management Intern remoto Brasil
+- Estágio Infraestrutura de TI Belo Horizonte MG
+- Estágio Infraestrutura de TI Contagem MG
+- Estágio Infraestrutura de TI Nova Lima MG
+- Estágio Infraestrutura de TI remoto Brasil
+- Estagiário de Infraestrutura Belo Horizonte MG
+- Estagiário de Infraestrutura Contagem MG
+- Estagiário de Infraestrutura Nova Lima MG
+- Estagiário de Infraestrutura remoto Brasil
+- Infrastructure Intern Belo Horizonte MG
+- Infrastructure Intern Contagem MG
+- Infrastructure Intern Nova Lima MG
+- Infrastructure Intern remoto Brasil
+- IT Infrastructure Intern Belo Horizonte MG
+- IT Infrastructure Intern Contagem MG
+- IT Infrastructure Intern Nova Lima MG
+- IT Infrastructure Intern remoto Brasil
+- Estágio Redes Belo Horizonte MG
+- Estágio Redes Contagem MG
+- Estágio Redes Nova Lima MG
+- Estágio Redes remoto Brasil
+- Network Intern Belo Horizonte MG
+- Network Intern Contagem MG
+- Network Intern Nova Lima MG
+- Network Intern remoto Brasil
+- Estágio Cloud Belo Horizonte MG
+- Estágio Cloud Contagem MG
+- Estágio Cloud Nova Lima MG
+- Estágio Cloud remoto Brasil
+- Cloud Intern Belo Horizonte MG
+- Cloud Intern Contagem MG
+- Cloud Intern Nova Lima MG
+- Cloud Intern remoto Brasil
+- Cloud Infrastructure Intern Belo Horizonte MG
+- Cloud Infrastructure Intern Contagem MG
+- Cloud Infrastructure Intern Nova Lima MG
+- Cloud Infrastructure Intern remoto Brasil
+- Estágio Sistemas Belo Horizonte MG
+- Estágio Sistemas Contagem MG
+- Estágio Sistemas Nova Lima MG
+- Estágio Sistemas remoto Brasil
+- Systems Intern Belo Horizonte MG
+- Systems Intern Contagem MG
+- Systems Intern Nova Lima MG
+- Systems Intern remoto Brasil
+- Estágio NOC Belo Horizonte MG
+- Estágio NOC Contagem MG
+- Estágio NOC Nova Lima MG
+- Estágio NOC remoto Brasil
+- NOC Intern Belo Horizonte MG
+- NOC Intern Contagem MG
+- NOC Intern Nova Lima MG
+- NOC Intern remoto Brasil
+- Estágio Monitoramento Belo Horizonte MG
+- Estágio Monitoramento Contagem MG
+- Estágio Monitoramento Nova Lima MG
+- Estágio Monitoramento remoto Brasil
+- Monitoring Intern Belo Horizonte MG
+- Monitoring Intern Contagem MG
+- Monitoring Intern Nova Lima MG
+- Monitoring Intern remoto Brasil
+- Estágio Suporte de TI Belo Horizonte MG
+- Estágio Suporte de TI Contagem MG
+- Estágio Suporte de TI Nova Lima MG
+- Estágio Suporte de TI remoto Brasil
+- Estágio Suporte Técnico Belo Horizonte MG
+- Estágio Suporte Técnico Contagem MG
+- Estágio Suporte Técnico Nova Lima MG
+- Estágio Suporte Técnico remoto Brasil
+- Estagiário de Suporte Belo Horizonte MG
+- Estagiário de Suporte Contagem MG
+- Estagiário de Suporte Nova Lima MG
+- Estagiário de Suporte remoto Brasil
+- IT Support Intern Belo Horizonte MG
+- IT Support Intern Contagem MG
+- IT Support Intern Nova Lima MG
+- IT Support Intern remoto Brasil
+- Technical Support Intern Belo Horizonte MG
+- Technical Support Intern Contagem MG
+- Technical Support Intern Nova Lima MG
+- Technical Support Intern remoto Brasil
+- Help Desk Intern Belo Horizonte MG
+- Help Desk Intern Contagem MG
+- Help Desk Intern Nova Lima MG
+- Help Desk Intern remoto Brasil
+- Service Desk Intern Belo Horizonte MG
+- Service Desk Intern Contagem MG
+- Service Desk Intern Nova Lima MG
+- Service Desk Intern remoto Brasil
+- Estágio Service Desk Belo Horizonte MG
+- Estágio Service Desk Contagem MG
+- Estágio Service Desk Nova Lima MG
+- Estágio Service Desk remoto Brasil
+- Estágio Help Desk Belo Horizonte MG
+- Estágio Help Desk Contagem MG
+- Estágio Help Desk Nova Lima MG
+- Estágio Help Desk remoto Brasil
+- Estágio Operações de TI Belo Horizonte MG
+- Estágio Operações de TI Contagem MG
+- Estágio Operações de TI Nova Lima MG
+- Estágio Operações de TI remoto Brasil
+- IT Operations Intern Belo Horizonte MG
+- IT Operations Intern Contagem MG
+- IT Operations Intern Nova Lima MG
+- IT Operations Intern remoto Brasil
+- Technology Operations Intern Belo Horizonte MG
+- Technology Operations Intern Contagem MG
+- Technology Operations Intern Nova Lima MG
+- Technology Operations Intern remoto Brasil
+- Infrastructure Operations Intern Belo Horizonte MG
+- Infrastructure Operations Intern Contagem MG
+- Infrastructure Operations Intern Nova Lima MG
+- Infrastructure Operations Intern remoto Brasil
+- Estágio Segurança da Informação Belo Horizonte MG
+- Estágio Segurança da Informação Contagem MG
+- Estágio Segurança da Informação Nova Lima MG
+- Estágio Segurança da Informação remoto Brasil
+- Information Security Intern Belo Horizonte MG
+- Information Security Intern Contagem MG
+- Information Security Intern Nova Lima MG
+- Information Security Intern remoto Brasil
+- Cybersecurity Intern Belo Horizonte MG
+- Cybersecurity Intern Contagem MG
+- Cybersecurity Intern Nova Lima MG
+- Cybersecurity Intern remoto Brasil
+- Security Operations Intern Belo Horizonte MG
+- Security Operations Intern Contagem MG
+- Security Operations Intern Nova Lima MG
+- Security Operations Intern remoto Brasil
+- SOC Intern Belo Horizonte MG
+- SOC Intern Contagem MG
+- SOC Intern Nova Lima MG
+- SOC Intern remoto Brasil
+- GRC Intern Belo Horizonte MG
+- GRC Intern Contagem MG
+- GRC Intern Nova Lima MG
+- GRC Intern remoto Brasil
+- Cybersecurity GRC Intern Belo Horizonte MG
+- Cybersecurity GRC Intern Contagem MG
+- Cybersecurity GRC Intern Nova Lima MG
+- Cybersecurity GRC Intern remoto Brasil
+- IT Risk Intern Belo Horizonte MG
+- IT Risk Intern Contagem MG
+- IT Risk Intern Nova Lima MG
+- IT Risk Intern remoto Brasil
+- Technology Risk Intern Belo Horizonte MG
+- Technology Risk Intern Contagem MG
+- Technology Risk Intern Nova Lima MG
+- Technology Risk Intern remoto Brasil
+- Estagiário de Tecnologia Belo Horizonte MG
+- Estagiário de Tecnologia Contagem MG
+- Estagiário de Tecnologia Nova Lima MG
+- Estagiário de Tecnologia remoto Brasil
+- Technology Intern Belo Horizonte MG
+- Technology Intern Contagem MG
+- Technology Intern Nova Lima MG
+- Technology Intern remoto Brasil
+- IT Intern Belo Horizonte MG
+- IT Intern Contagem MG
+- IT Intern Nova Lima MG
+- IT Intern remoto Brasil
+- Estagiário de Sistemas Belo Horizonte MG
+- Estagiário de Sistemas Contagem MG
+- Estagiário de Sistemas Nova Lima MG
+- Estagiário de Sistemas remoto Brasil
+- Estágio Corporativo em Tecnologia Belo Horizonte MG
+- Estágio Corporativo em Tecnologia Contagem MG
+- Estágio Corporativo em Tecnologia Nova Lima MG
+- Estágio Corporativo em Tecnologia remoto Brasil
+- Analista Júnior TI Belo Horizonte MG
+- Analista Júnior TI Contagem MG
+- Analista Júnior TI Nova Lima MG
+- Analista Júnior TI remoto Brasil
+- Assistente de TI Belo Horizonte MG
+- Assistente de TI Contagem MG
+- Assistente de TI Nova Lima MG
+- Assistente de TI remoto Brasil
+- Técnico de Suporte Belo Horizonte MG
+- Técnico de Suporte Contagem MG
+- Técnico de Suporte Nova Lima MG
+- Técnico de Suporte remoto Brasil
+- Operador de NOC Belo Horizonte MG
+- Operador de NOC Contagem MG
+- Operador de NOC Nova Lima MG
+- Operador de NOC remoto Brasil
+- Suporte N1 Belo Horizonte MG
+- Suporte N1 Contagem MG
+- Suporte N1 Nova Lima MG
+- Suporte N1 remoto Brasil
+- Suporte N2 Belo Horizonte MG
+- Suporte N2 Contagem MG
+- Suporte N2 Nova Lima MG
+- Suporte N2 remoto Brasil
+- Analista de Suporte Júnior Belo Horizonte MG
+- Analista de Suporte Júnior Contagem MG
+- Analista de Suporte Júnior Nova Lima MG
+- Analista de Suporte Júnior remoto Brasil
+- Analista de Infraestrutura Júnior Belo Horizonte MG
+- Analista de Infraestrutura Júnior Contagem MG
+- Analista de Infraestrutura Júnior Nova Lima MG
+- Analista de Infraestrutura Júnior remoto Brasil
+- Analista de Monitoramento Júnior Belo Horizonte MG
+- Analista de Monitoramento Júnior Contagem MG
+- Analista de Monitoramento Júnior Nova Lima MG
+- Analista de Monitoramento Júnior remoto Brasil
+- Analista de Operações de TI Júnior Belo Horizonte MG
+- Analista de Operações de TI Júnior Contagem MG
+- Analista de Operações de TI Júnior Nova Lima MG
+- Analista de Operações de TI Júnior remoto Brasil
+- Analista de ITSM Júnior Belo Horizonte MG
+- Analista de ITSM Júnior Contagem MG
+- Analista de ITSM Júnior Nova Lima MG
+- Analista de ITSM Júnior remoto Brasil
+- Analista de Governança de TI Júnior Belo Horizonte MG
+- Analista de Governança de TI Júnior Contagem MG
+- Analista de Governança de TI Júnior Nova Lima MG
+- Analista de Governança de TI Júnior remoto Brasil
+- Assistente Governança Riscos Compliance TI Belo Horizonte MG
+- Assistente Governança Riscos Compliance TI Contagem MG
+- Assistente Governança Riscos Compliance TI Nova Lima MG
+- Assistente Governança Riscos Compliance TI remoto Brasil
+- Analista Júnior Governança Riscos Compliance TI Belo Horizonte MG
+- Analista Júnior Governança Riscos Compliance TI Contagem MG
+- Analista Júnior Governança Riscos Compliance TI Nova Lima MG
+- Analista Júnior Governança Riscos Compliance TI remoto Brasil
+- estágio tecnologia "IT Governance" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "ITSM" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "gestão de serviços de TI" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "gestão de incidentes" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "gestão de problemas" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "gestão de mudanças" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "Change Management" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "SLA" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "indicadores de TI" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "KPI" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "processos de TI" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "melhoria contínua" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "gestão de fornecedores de TI" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "gestão de contratos de TI" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "controles internos de TI" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "riscos de TI" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "compliance de TI" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "auditoria de TI" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "controles de acesso" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "políticas e procedimentos de TI" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "continuidade de serviços" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "gestão de ativos de TI" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "CMDB" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "ITIL" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "ISO 20000" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "ISO 27001" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "COBIT" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "monitoramento" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "Zabbix" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "Grafana" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "observabilidade" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "troubleshooting" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "redes" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "Windows" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "Linux" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "servidores" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "cloud" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "AWS" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "Azure" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "Microsoft 365" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "Active Directory" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "chamados" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "incidentes" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "escalonamento" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "N1" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "N2" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- estágio tecnologia "suporte técnico" ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- site:linkedin.com estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- site:indeed.com estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- site:gupy.io estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- site:greenhouse.io estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- site:greenhouse.com estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- site:lever.co estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- site:myworkdayjobs.com estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- site:inhire.app estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- site:abler.com.br estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- site:vagas.com.br estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- site:ciee.org.br estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- site:nube.com.br estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- site:eureca.me estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- site:bettha.com estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) ("Belo Horizonte" OR "Contagem" OR "Nova Lima" OR "remoto")
+- Santa Casa BH carreiras estágio TI governança infraestrutura suporte
+- Inter carreiras estágio TI governança infraestrutura suporte
+- BMG carreiras estágio TI governança infraestrutura suporte
+- Sicoob carreiras estágio TI governança infraestrutura suporte
+- Localiza carreiras estágio TI governança infraestrutura suporte
+- Stefanini carreiras estágio TI governança infraestrutura suporte
+- SONDA carreiras estágio TI governança infraestrutura suporte
+- Algar Tech carreiras estágio TI governança infraestrutura suporte
+- AeC carreiras estágio TI governança infraestrutura suporte
+- Axxis carreiras estágio TI governança infraestrutura suporte
+- Vale carreiras estágio TI governança infraestrutura suporte
+- Anglo American carreiras estágio TI governança infraestrutura suporte
+- Lhoist carreiras estágio TI governança infraestrutura suporte
+- TOTVS carreiras estágio TI governança infraestrutura suporte
+- e-Core carreiras estágio TI governança infraestrutura suporte
+- LUZA Group carreiras estágio TI governança infraestrutura suporte
+- Wyntech carreiras estágio TI governança infraestrutura suporte
+- Vivo carreiras estágio TI governança infraestrutura suporte
+- TIM carreiras estágio TI governança infraestrutura suporte
+- Accenture carreiras estágio TI governança infraestrutura suporte
+- Deloitte carreiras estágio TI governança infraestrutura suporte
+- EY carreiras estágio TI governança infraestrutura suporte
+- KPMG carreiras estágio TI governança infraestrutura suporte
+- PwC carreiras estágio TI governança infraestrutura suporte
