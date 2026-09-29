@@ -725,7 +725,16 @@
         "url": "https://wyntech.gupy.io/jobs/12592747"
       }
     ],
-    "deliveries": [],
+    "deliveries": [
+      {
+        "created": "2026-09-29T00:29:43.401956+00:00",
+        "error": null,
+        "id": "smtp-initial-test",
+        "job_versions": "[]",
+        "message_id": null,
+        "status": "sending"
+      }
+    ],
     "jobs": [
       {
         "fingerprint": "cef2e8b89de687509fd6c39be642707f75c458137b4d4eb4fd0fb2da942af3d1",
