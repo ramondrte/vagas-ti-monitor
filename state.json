@@ -1233,11 +1233,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estágio Processos de TI Belo Horizonte MG\", \"Estágio Processos de TI Contagem MG\", \"Estágio Processos de TI Nova Lima MG\", \"Estágio Processos de TI remoto Brasil\", \"Estágio Controles de TI Belo Horizonte MG\", \"Estágio Controles de TI Contagem MG\", \"Estágio Controles de TI Nova Lima MG\", \"Estágio Controles de TI remoto Brasil\", \"Estágio Riscos de TI Belo Horizonte MG\", \"Estágio Riscos de TI Contagem MG\", \"Estágio Riscos de TI Nova Lima MG\", \"Estágio Riscos de TI remoto Brasil\", \"Estágio Compliance de TI Belo Horizonte MG\", \"Estágio Compliance de TI Contagem MG\", \"Estágio Compliance de TI Nova Lima MG\", \"Estágio Compliance de TI remoto Brasil\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 36, \"fetch_errors\": 4, \"eligible\": 1, \"rejected\": 15, \"pending\": 20, \"new_jobs\": 1, \"sent\": true, \"smtp_accepted\": true, \"message_id\": \"<179064191623.2119.4973530532655628740@runnervmtr4k5.c1t3xxmpbwgejpupgp0ybbyz1d.bx.internal.cloudapp.net>\"}",
+        "finished": "2026-09-29T00:31:59.473308+00:00",
         "id": 16,
         "started": "2026-09-29T00:31:39.119202+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
