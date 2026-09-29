@@ -1191,11 +1191,11 @@
       },
       {
         "command": "cloud:test-email",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estágio Gestão de TI Belo Horizonte MG\", \"Estágio Gestão de TI Contagem MG\", \"Estágio Gestão de TI Nova Lima MG\", \"Estágio Gestão de TI remoto Brasil\", \"Estágio Gestão de Serviços de TI Belo Horizonte MG\", \"Estágio Gestão de Serviços de TI Contagem MG\", \"Estágio Gestão de Serviços de TI Nova Lima MG\", \"Estágio Gestão de Serviços de TI remoto Brasil\", \"Estágio ITSM Belo Horizonte MG\", \"Estágio ITSM Contagem MG\", \"Estágio ITSM Nova Lima MG\", \"Estágio ITSM remoto Brasil\", \"ITSM Intern Belo Horizonte MG\", \"ITSM Intern Contagem MG\", \"ITSM Intern Nova Lima MG\", \"ITSM Intern remoto Brasil\"], \"errors\": 0, \"urls\": [\"https://www.indeed.com/cmp/Nyc-Health-Hospitals/job-titles/Registered-Nurse\", \"https://www.indeed.com/q-Nyc-Health-Hospitals-Staff-Nurse-l-New-York,-NY-jobs.html\", \"https://www.linkedin.com/jobs/view/staff-nurse-at-nyc-health-%2B-hospitals-4453665778\", \"https://www.linkedin.com/jobs/view/staff-nurse-at-nyc-health-%2B-hospitals-4461126554\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 38, \"fetch_errors\": 2, \"eligible\": 1, \"rejected\": 21, \"pending\": 16, \"test_email\": \"smtp_accepted\"}",
+        "finished": "2026-09-29T00:29:48.775989+00:00",
         "id": 15,
         "started": "2026-09-29T00:29:27.574646+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": []
