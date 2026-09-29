@@ -731,8 +731,8 @@
         "error": null,
         "id": "smtp-initial-test",
         "job_versions": "[]",
-        "message_id": null,
-        "status": "sending"
+        "message_id": "<179064178512.2120.2356668617907776455@runnervmtr4k5.pslb01x0b43enkwaw1d3nvpkoe.bx.internal.cloudapp.net>",
+        "status": "accepted"
       }
     ],
     "jobs": [
