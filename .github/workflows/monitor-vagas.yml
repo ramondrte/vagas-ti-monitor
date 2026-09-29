@@ -1,0 +1,52 @@
+name: Monitor de vagas TI
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'dry-run: busca sem e-mail; test-email: teste SMTP; live: alertas reais'
+        type: choice
+        options: [dry-run, test-email, live]
+        default: dry-run
+      bootstrap:
+        description: 'Somente primeira execução: importar histórico existente se branch ausente'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: monitor-vagas-state
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    if: github.repository == 'ramondrte/vagas-ti-monitor' && github.event.repository.private == false && (github.event_name == 'workflow_dispatch' || vars.MONITOR_ENABLED == 'true')
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Testes sem credenciais
+        run: python -m unittest discover -p 'test_*.py'
+      - name: Restaurar histórico, pesquisar, analisar e persistir
+        env:
+          GH_STATE_TOKEN: ${{ github.token }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MODE: ${{ github.event_name == 'schedule' && 'live' || inputs.mode }}
+          BOOTSTRAP: ${{ inputs.bootstrap }}
+        shell: bash
+        run: |
+          args=(--mode "$MODE")
+          if [[ "$BOOTSTRAP" == "true" ]]; then args+=(--bootstrap); fi
+          python cloud_run.py "${args[@]}"
