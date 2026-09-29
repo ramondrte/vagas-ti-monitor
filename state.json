@@ -512,7 +512,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-09-29T00:02:09.327616+00:00",
-        "last_seen": "2026-09-29T00:31:51.728594+00:00",
+        "last_seen": "2026-09-29T00:31:54.465152+00:00",
         "source": "Página oficial",
         "url": "https://programadeestagiosantacasabh.gupy.io/jobs/12546963"
       },
@@ -734,6 +734,14 @@
       }
     ],
     "deliveries": [
+      {
+        "created": "2026-09-29T00:31:54.490952+00:00",
+        "error": null,
+        "id": "e8300d8233747e149b3109bd97de1e30f65d72b250d134f1fbdc541498f01370",
+        "job_versions": "[[\"5dc9b6adfef864b755e785e35d51b161a73d98c23495074aab6e76e82466af67\", \"ab10ea3944894c805d3c00a89337f972ad6d651e6d6163b8329b08f2033c014d\"]]",
+        "message_id": null,
+        "status": "sending"
+      },
       {
         "created": "2026-09-29T00:29:43.401956+00:00",
         "error": null,
