@@ -1543,11 +1543,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estagiário de Suporte Belo Horizonte MG\", \"Estagiário de Suporte Contagem MG\", \"Estagiário de Suporte Nova Lima MG\", \"Estagiário de Suporte remoto Brasil\", \"IT Support Intern Belo Horizonte MG\", \"IT Support Intern Contagem MG\", \"IT Support Intern Nova Lima MG\", \"IT Support Intern remoto Brasil\", \"Technical Support Intern Belo Horizonte MG\", \"Technical Support Intern Contagem MG\", \"Technical Support Intern Nova Lima MG\", \"Technical Support Intern remoto Brasil\", \"Help Desk Intern Belo Horizonte MG\", \"Help Desk Intern Contagem MG\", \"Help Desk Intern Nova Lima MG\", \"Help Desk Intern remoto Brasil\"], \"errors\": 0, \"urls\": [\"https://www.indeed.com/cmp/Microsoft/locations/WA/Bellevue\", \"https://www.indeed.com/q-Microsoft-Full-Time-l-Bellevue,-WA-jobs.html\", \"https://www.indeed.com/q-Microsoft-l-Bellevue,-WA-jobs.html\", \"https://www.linkedin.com/jobs/microsoft-jobs-bellevue-wa\", \"https://www.linkedin.com/jobs/microsoft-jobs-bellevue-wa-jobs-bellevue-wa\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 38, \"fetch_errors\": 2, \"eligible\": 1, \"rejected\": 22, \"pending\": 15, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-09-30T12:45:45.563026+00:00",
         "id": 23,
         "started": "2026-09-30T12:45:23.132528+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
