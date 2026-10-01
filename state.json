@@ -1617,11 +1617,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"GRC Intern Belo Horizonte MG\", \"GRC Intern Contagem MG\", \"GRC Intern Nova Lima MG\", \"GRC Intern remoto Brasil\", \"Cybersecurity GRC Intern Belo Horizonte MG\", \"Cybersecurity GRC Intern Contagem MG\", \"Cybersecurity GRC Intern Nova Lima MG\", \"Cybersecurity GRC Intern remoto Brasil\", \"IT Risk Intern Belo Horizonte MG\", \"IT Risk Intern Contagem MG\", \"IT Risk Intern Nova Lima MG\", \"IT Risk Intern remoto Brasil\", \"Technology Risk Intern Belo Horizonte MG\", \"Technology Risk Intern Contagem MG\", \"Technology Risk Intern Nova Lima MG\", \"Technology Risk Intern remoto Brasil\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 31, \"fetch_errors\": 9, \"eligible\": 0, \"rejected\": 11, \"pending\": 20, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-01T09:03:59.696095+00:00",
         "id": 27,
         "started": "2026-10-01T09:03:40.700736+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
