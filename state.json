@@ -1737,11 +1737,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estágio Corporativo em Tecnologia Belo Horizonte MG\", \"Estágio Corporativo em Tecnologia Contagem MG\", \"Estágio Corporativo em Tecnologia Nova Lima MG\", \"Estágio Corporativo em Tecnologia remoto Brasil\", \"Analista Júnior TI Belo Horizonte MG\", \"Analista Júnior TI Contagem MG\", \"Analista Júnior TI Nova Lima MG\", \"Analista Júnior TI remoto Brasil\", \"Assistente de TI Belo Horizonte MG\", \"Assistente de TI Contagem MG\", \"Assistente de TI Nova Lima MG\", \"Assistente de TI remoto Brasil\", \"Técnico de Suporte Belo Horizonte MG\", \"Técnico de Suporte Contagem MG\", \"Técnico de Suporte Nova Lima MG\", \"Técnico de Suporte remoto Brasil\"], \"errors\": 0, \"urls\": [\"https://ca.indeed.com/browsejobs\", \"https://ca.indeed.com/jobs-in-Mississauga,-ON\", \"https://pk.indeed.com\", \"https://www.indeed.com/l-Chico,-CA-jobs.html\", \"https://www.indeed.com/l-Colorado-Springs,-CO-jobs.html\", \"https://www.indeed.com/l-Newberg,-OR-jobs.html\", \"https://www.indeed.com/l-Pasadena,-CA-jobs.html\", \"https://www.indeed.com/l-Spokane,-WA-jobs.html\", \"https://www.indeed.com/l-Utah-jobs.html\", \"https://www.indeed.com/l-laredo,-tx-jobs.html\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 30, \"fetch_errors\": 10, \"eligible\": 0, \"rejected\": 13, \"pending\": 17, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-01T21:52:11.322387+00:00",
         "id": 29,
         "started": "2026-10-01T21:51:40.089742+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
