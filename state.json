@@ -1609,11 +1609,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Information Security Intern Belo Horizonte MG\", \"Information Security Intern Contagem MG\", \"Information Security Intern Nova Lima MG\", \"Information Security Intern remoto Brasil\", \"Cybersecurity Intern Belo Horizonte MG\", \"Cybersecurity Intern Contagem MG\", \"Cybersecurity Intern Nova Lima MG\", \"Cybersecurity Intern remoto Brasil\", \"Security Operations Intern Belo Horizonte MG\", \"Security Operations Intern Contagem MG\", \"Security Operations Intern Nova Lima MG\", \"Security Operations Intern remoto Brasil\", \"SOC Intern Belo Horizonte MG\", \"SOC Intern Contagem MG\", \"SOC Intern Nova Lima MG\", \"SOC Intern remoto Brasil\"], \"errors\": 0, \"urls\": [\"https://www.indeed.com/q-Security-Officer-l-Somerset,-NJ-jobs.html\", \"https://www.indeed.com/q-Security-l-New-Jersey-jobs.html\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 35, \"fetch_errors\": 5, \"eligible\": 1, \"rejected\": 18, \"pending\": 16, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-01T02:13:22.832129+00:00",
         "id": 26,
         "started": "2026-10-01T02:13:04.599429+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
