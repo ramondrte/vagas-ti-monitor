@@ -1811,11 +1811,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"estágio tecnologia \\\"gestão de problemas\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"gestão de mudanças\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"Change Management\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"SLA\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"indicadores de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"KPI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"processos de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"melhoria contínua\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"gestão de fornecedores de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"gestão de contratos de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"controles internos de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"riscos de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"compliance de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"auditoria de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"controles de acesso\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"políticas e procedimentos de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 31, \"fetch_errors\": 9, \"eligible\": 0, \"rejected\": 16, \"pending\": 15, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-02T20:48:35.827381+00:00",
         "id": 33,
         "started": "2026-10-02T20:48:14.217876+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
