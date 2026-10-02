@@ -1774,11 +1774,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Analista de Infraestrutura Júnior Belo Horizonte MG\", \"Analista de Infraestrutura Júnior Contagem MG\", \"Analista de Infraestrutura Júnior Nova Lima MG\", \"Analista de Infraestrutura Júnior remoto Brasil\", \"Analista de Monitoramento Júnior Belo Horizonte MG\", \"Analista de Monitoramento Júnior Contagem MG\", \"Analista de Monitoramento Júnior Nova Lima MG\", \"Analista de Monitoramento Júnior remoto Brasil\", \"Analista de Operações de TI Júnior Belo Horizonte MG\", \"Analista de Operações de TI Júnior Contagem MG\", \"Analista de Operações de TI Júnior Nova Lima MG\", \"Analista de Operações de TI Júnior remoto Brasil\", \"Analista de ITSM Júnior Belo Horizonte MG\", \"Analista de ITSM Júnior Contagem MG\", \"Analista de ITSM Júnior Nova Lima MG\", \"Analista de ITSM Júnior remoto Brasil\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 31, \"fetch_errors\": 9, \"eligible\": 0, \"rejected\": 15, \"pending\": 16, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-02T08:38:41.939537+00:00",
         "id": 31,
         "started": "2026-10-02T08:38:19.779287+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
