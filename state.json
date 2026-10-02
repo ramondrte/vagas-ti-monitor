@@ -1758,11 +1758,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Operador de NOC Belo Horizonte MG\", \"Operador de NOC Contagem MG\", \"Operador de NOC Nova Lima MG\", \"Operador de NOC remoto Brasil\", \"Suporte N1 Belo Horizonte MG\", \"Suporte N1 Contagem MG\", \"Suporte N1 Nova Lima MG\", \"Suporte N1 remoto Brasil\", \"Suporte N2 Belo Horizonte MG\", \"Suporte N2 Contagem MG\", \"Suporte N2 Nova Lima MG\", \"Suporte N2 remoto Brasil\", \"Analista de Suporte Júnior Belo Horizonte MG\", \"Analista de Suporte Júnior Contagem MG\", \"Analista de Suporte Júnior Nova Lima MG\", \"Analista de Suporte Júnior remoto Brasil\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 29, \"fetch_errors\": 11, \"eligible\": 1, \"rejected\": 13, \"pending\": 15, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-02T01:43:15.817926+00:00",
         "id": 30,
         "started": "2026-10-02T01:42:58.374783+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
