@@ -1795,11 +1795,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Analista de Governança de TI Júnior Belo Horizonte MG\", \"Analista de Governança de TI Júnior Contagem MG\", \"Analista de Governança de TI Júnior Nova Lima MG\", \"Analista de Governança de TI Júnior remoto Brasil\", \"Assistente Governança Riscos Compliance TI Belo Horizonte MG\", \"Assistente Governança Riscos Compliance TI Contagem MG\", \"Assistente Governança Riscos Compliance TI Nova Lima MG\", \"Assistente Governança Riscos Compliance TI remoto Brasil\", \"Analista Júnior Governança Riscos Compliance TI Belo Horizonte MG\", \"Analista Júnior Governança Riscos Compliance TI Contagem MG\", \"Analista Júnior Governança Riscos Compliance TI Nova Lima MG\", \"Analista Júnior Governança Riscos Compliance TI remoto Brasil\", \"estágio tecnologia \\\"IT Governance\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"ITSM\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"gestão de serviços de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"gestão de incidentes\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 29, \"fetch_errors\": 11, \"eligible\": 1, \"rejected\": 13, \"pending\": 15, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-02T15:52:42.744879+00:00",
         "id": 32,
         "started": "2026-10-02T15:52:24.738120+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
