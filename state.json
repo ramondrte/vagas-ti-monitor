@@ -2034,11 +2034,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Algar Tech carreiras estágio TI governança infraestrutura suporte\", \"AeC carreiras estágio TI governança infraestrutura suporte\", \"Axxis carreiras estágio TI governança infraestrutura suporte\", \"Vale carreiras estágio TI governança infraestrutura suporte\", \"Anglo American carreiras estágio TI governança infraestrutura suporte\", \"Lhoist carreiras estágio TI governança infraestrutura suporte\", \"TOTVS carreiras estágio TI governança infraestrutura suporte\", \"e-Core carreiras estágio TI governança infraestrutura suporte\", \"LUZA Group carreiras estágio TI governança infraestrutura suporte\", \"Wyntech carreiras estágio TI governança infraestrutura suporte\", \"Vivo carreiras estágio TI governança infraestrutura suporte\", \"TIM carreiras estágio TI governança infraestrutura suporte\", \"Accenture carreiras estágio TI governança infraestrutura suporte\", \"Deloitte carreiras estágio TI governança infraestrutura suporte\", \"EY carreiras estágio TI governança infraestrutura suporte\", \"KPMG carreiras estágio TI governança infraestrutura suporte\"], \"errors\": 0, \"urls\": [\"https://accenture.wd103.myworkdayjobs.com/AccentureCareers\", \"https://www.linkedin.com/company/accenture\", \"https://www.linkedin.com/company/deloitte\", \"https://www.linkedin.com/company/ernstandyoung\", \"https://www.linkedin.com/company/kpmg\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 25, \"fetch_errors\": 15, \"eligible\": 0, \"rejected\": 10, \"pending\": 15, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-03T17:25:55.919809+00:00",
         "id": 37,
         "started": "2026-10-03T17:25:30.549932+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
