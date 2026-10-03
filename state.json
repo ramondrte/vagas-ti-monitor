@@ -1832,11 +1832,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"estágio tecnologia \\\"continuidade de serviços\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"gestão de ativos de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"CMDB\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"ITIL\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"ISO 20000\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"ISO 27001\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"COBIT\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"monitoramento\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"Zabbix\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"Grafana\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"observabilidade\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"troubleshooting\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"redes\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"Windows\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"Linux\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"servidores\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 29, \"fetch_errors\": 11, \"eligible\": 1, \"rejected\": 13, \"pending\": 15, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-03T00:33:12.250866+00:00",
         "id": 34,
         "started": "2026-10-03T00:32:50.616592+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
