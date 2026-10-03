@@ -2050,11 +2050,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"PwC carreiras estágio TI governança infraestrutura suporte\", \"Estágio Governança de TI Belo Horizonte MG\", \"Estágio Governança de TI Contagem MG\", \"Estágio Governança de TI Nova Lima MG\", \"Estágio Governança de TI remoto Brasil\", \"Estagiário Governança de TI Belo Horizonte MG\", \"Estagiário Governança de TI Contagem MG\", \"Estagiário Governança de TI Nova Lima MG\", \"Estagiário Governança de TI remoto Brasil\", \"Estágio IT Governance Belo Horizonte MG\", \"Estágio IT Governance Contagem MG\", \"Estágio IT Governance Nova Lima MG\", \"Estágio IT Governance remoto Brasil\", \"IT Governance Intern Belo Horizonte MG\", \"IT Governance Intern Contagem MG\", \"IT Governance Intern Nova Lima MG\"], \"errors\": 0, \"urls\": [\"https://www.linkedin.com/company/pwc\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 32, \"fetch_errors\": 8, \"eligible\": 1, \"rejected\": 17, \"pending\": 14, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-03T21:25:50.144138+00:00",
         "id": 38,
         "started": "2026-10-03T21:25:29.198322+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
