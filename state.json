@@ -2123,11 +2123,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"IT Governance Intern remoto Brasil\", \"Estágio Gestão de TI Belo Horizonte MG\", \"Estágio Gestão de TI Contagem MG\", \"Estágio Gestão de TI Nova Lima MG\", \"Estágio Gestão de TI remoto Brasil\", \"Estágio Gestão de Serviços de TI Belo Horizonte MG\", \"Estágio Gestão de Serviços de TI Contagem MG\", \"Estágio Gestão de Serviços de TI Nova Lima MG\", \"Estágio Gestão de Serviços de TI remoto Brasil\", \"Estágio ITSM Belo Horizonte MG\", \"Estágio ITSM Contagem MG\", \"Estágio ITSM Nova Lima MG\", \"Estágio ITSM remoto Brasil\", \"ITSM Intern Belo Horizonte MG\", \"ITSM Intern Contagem MG\", \"ITSM Intern Nova Lima MG\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 22, \"fetch_errors\": 18, \"eligible\": 0, \"rejected\": 6, \"pending\": 16, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-04T00:44:33.237005+00:00",
         "id": 39,
         "started": "2026-10-04T00:44:02.906049+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
