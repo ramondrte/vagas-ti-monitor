@@ -2208,11 +2208,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"NOC Intern remoto Brasil\", \"Estágio Monitoramento Belo Horizonte MG\", \"Estágio Monitoramento Contagem MG\", \"Estágio Monitoramento Nova Lima MG\", \"Estágio Monitoramento remoto Brasil\", \"Monitoring Intern Belo Horizonte MG\", \"Monitoring Intern Contagem MG\", \"Monitoring Intern Nova Lima MG\", \"Monitoring Intern remoto Brasil\", \"Estágio Suporte de TI Belo Horizonte MG\", \"Estágio Suporte de TI Contagem MG\", \"Estágio Suporte de TI Nova Lima MG\", \"Estágio Suporte de TI remoto Brasil\", \"Estágio Suporte Técnico Belo Horizonte MG\", \"Estágio Suporte Técnico Contagem MG\", \"Estágio Suporte Técnico Nova Lima MG\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 24, \"fetch_errors\": 16, \"eligible\": 0, \"rejected\": 10, \"pending\": 14, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-05T16:09:28.713832+00:00",
         "id": 46,
         "started": "2026-10-05T16:09:02.978150+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
