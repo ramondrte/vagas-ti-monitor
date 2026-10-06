@@ -2314,11 +2314,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"SOC Intern remoto Brasil\", \"GRC Intern Belo Horizonte MG\", \"GRC Intern Contagem MG\", \"GRC Intern Nova Lima MG\", \"GRC Intern remoto Brasil\", \"Cybersecurity GRC Intern Belo Horizonte MG\", \"Cybersecurity GRC Intern Contagem MG\", \"Cybersecurity GRC Intern Nova Lima MG\", \"Cybersecurity GRC Intern remoto Brasil\", \"IT Risk Intern Belo Horizonte MG\", \"IT Risk Intern Contagem MG\", \"IT Risk Intern Nova Lima MG\", \"IT Risk Intern remoto Brasil\", \"Technology Risk Intern Belo Horizonte MG\", \"Technology Risk Intern Contagem MG\", \"Technology Risk Intern Nova Lima MG\"], \"errors\": 0, \"urls\": [\"https://www.indeed.com/q-grc-l-new-york,-ny-jobs.html\", \"https://www.linkedin.com/jobs/grc-jobs-new-york\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 26, \"fetch_errors\": 14, \"eligible\": 0, \"rejected\": 12, \"pending\": 14, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-06T21:45:02.666308+00:00",
         "id": 51,
         "started": "2026-10-06T21:44:39.946237+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
