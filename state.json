@@ -2250,11 +2250,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Help Desk Intern remoto Brasil\", \"Service Desk Intern Belo Horizonte MG\", \"Service Desk Intern Contagem MG\", \"Service Desk Intern Nova Lima MG\", \"Service Desk Intern remoto Brasil\", \"Estágio Service Desk Belo Horizonte MG\", \"Estágio Service Desk Contagem MG\", \"Estágio Service Desk Nova Lima MG\", \"Estágio Service Desk remoto Brasil\", \"Estágio Help Desk Belo Horizonte MG\", \"Estágio Help Desk Contagem MG\", \"Estágio Help Desk Nova Lima MG\", \"Estágio Help Desk remoto Brasil\", \"Estágio Operações de TI Belo Horizonte MG\", \"Estágio Operações de TI Contagem MG\", \"Estágio Operações de TI Nova Lima MG\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 30, \"fetch_errors\": 10, \"eligible\": 1, \"rejected\": 16, \"pending\": 13, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-06T03:06:15.774952+00:00",
         "id": 48,
         "started": "2026-10-06T03:05:47.644570+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
