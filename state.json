@@ -2282,11 +2282,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estágio Segurança da Informação remoto Brasil\", \"Information Security Intern Belo Horizonte MG\", \"Information Security Intern Contagem MG\", \"Information Security Intern Nova Lima MG\", \"Information Security Intern remoto Brasil\", \"Cybersecurity Intern Belo Horizonte MG\", \"Cybersecurity Intern Contagem MG\", \"Cybersecurity Intern Nova Lima MG\", \"Cybersecurity Intern remoto Brasil\", \"Security Operations Intern Belo Horizonte MG\", \"Security Operations Intern Contagem MG\", \"Security Operations Intern Nova Lima MG\", \"Security Operations Intern remoto Brasil\", \"SOC Intern Belo Horizonte MG\", \"SOC Intern Contagem MG\", \"SOC Intern Nova Lima MG\"], \"errors\": 0, \"urls\": [\"https://www.indeed.com/q-Security-l-Riverside,-CA-jobs.html\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 30, \"fetch_errors\": 10, \"eligible\": 1, \"rejected\": 16, \"pending\": 13, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-06T17:16:51.740358+00:00",
         "id": 50,
         "started": "2026-10-06T17:16:17.936546+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
