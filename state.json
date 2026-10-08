@@ -2533,11 +2533,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"estágio tecnologia \\\"servidores\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"cloud\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"AWS\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"Azure\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"Microsoft 365\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"Active Directory\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"chamados\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"incidentes\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"escalonamento\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"N1\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"N2\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"suporte técnico\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"site:linkedin.com estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"site:indeed.com estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"site:gupy.io estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"site:greenhouse.io estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 28, \"fetch_errors\": 12, \"eligible\": 1, \"rejected\": 13, \"pending\": 14, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-08T22:10:56.645971+00:00",
         "id": 59,
         "started": "2026-10-08T22:10:28.461450+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
