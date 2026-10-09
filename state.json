@@ -2549,11 +2549,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"site:greenhouse.com estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"site:lever.co estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"site:myworkdayjobs.com estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"site:inhire.app estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"site:abler.com.br estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"site:vagas.com.br estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"site:ciee.org.br estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"site:nube.com.br estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"site:eureca.me estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"site:bettha.com estágio (governança OR infraestrutura OR NOC OR ITSM OR suporte) (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"Santa Casa BH carreiras estágio TI governança infraestrutura suporte\", \"Inter carreiras estágio TI governança infraestrutura suporte\", \"BMG carreiras estágio TI governança infraestrutura suporte\", \"Sicoob carreiras estágio TI governança infraestrutura suporte\", \"Localiza carreiras estágio TI governança infraestrutura suporte\", \"Stefanini carreiras estágio TI governança infraestrutura suporte\"], \"errors\": 0, \"urls\": [\"https://www.linkedin.com/company/thenewbmg\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 27, \"fetch_errors\": 13, \"eligible\": 0, \"rejected\": 10, \"pending\": 17, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-09T02:16:40.597452+00:00",
         "id": 60,
         "started": "2026-10-09T02:16:06.101635+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
