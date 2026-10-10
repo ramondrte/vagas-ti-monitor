@@ -2689,11 +2689,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estágio Infraestrutura de TI Nova Lima MG\", \"Estágio Infraestrutura de TI remoto Brasil\", \"Estagiário de Infraestrutura Belo Horizonte MG\", \"Estagiário de Infraestrutura Contagem MG\", \"Estagiário de Infraestrutura Nova Lima MG\", \"Estagiário de Infraestrutura remoto Brasil\", \"Infrastructure Intern Belo Horizonte MG\", \"Infrastructure Intern Contagem MG\", \"Infrastructure Intern Nova Lima MG\", \"Infrastructure Intern remoto Brasil\", \"IT Infrastructure Intern Belo Horizonte MG\", \"IT Infrastructure Intern Contagem MG\", \"IT Infrastructure Intern Nova Lima MG\", \"IT Infrastructure Intern remoto Brasil\", \"Estágio Redes Belo Horizonte MG\", \"Estágio Redes Contagem MG\"], \"errors\": 0, \"urls\": [\"https://www.linkedin.com/in/alexander-alvis-66923315\", \"https://www.linkedin.com/pub/dir/Alexander+/Alvis+\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 32, \"fetch_errors\": 8, \"eligible\": 1, \"rejected\": 14, \"pending\": 17, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-10T20:09:48.026802+00:00",
         "id": 67,
         "started": "2026-10-10T20:09:13.609818+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
