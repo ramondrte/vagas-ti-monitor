@@ -2665,11 +2665,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estágio Change Management Nova Lima MG\", \"Estágio Change Management remoto Brasil\", \"Estágio Gestão de Mudanças Belo Horizonte MG\", \"Estágio Gestão de Mudanças Contagem MG\", \"Estágio Gestão de Mudanças Nova Lima MG\", \"Estágio Gestão de Mudanças remoto Brasil\", \"Estágio Service Management Belo Horizonte MG\", \"Estágio Service Management Contagem MG\", \"Estágio Service Management Nova Lima MG\", \"Estágio Service Management remoto Brasil\", \"IT Service Management Intern Belo Horizonte MG\", \"IT Service Management Intern Contagem MG\", \"IT Service Management Intern Nova Lima MG\", \"IT Service Management Intern remoto Brasil\", \"Estágio Infraestrutura de TI Belo Horizonte MG\", \"Estágio Infraestrutura de TI Contagem MG\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 23, \"fetch_errors\": 17, \"eligible\": 0, \"rejected\": 9, \"pending\": 14, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-10T15:27:34.502264+00:00",
         "id": 66,
         "started": "2026-10-10T15:27:03.387909+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
