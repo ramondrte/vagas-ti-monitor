@@ -2718,11 +2718,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Cloud Infrastructure Intern Nova Lima MG\", \"Cloud Infrastructure Intern remoto Brasil\", \"Estágio Sistemas Belo Horizonte MG\", \"Estágio Sistemas Contagem MG\", \"Estágio Sistemas Nova Lima MG\", \"Estágio Sistemas remoto Brasil\", \"Systems Intern Belo Horizonte MG\", \"Systems Intern Contagem MG\", \"Systems Intern Nova Lima MG\", \"Systems Intern remoto Brasil\", \"Estágio NOC Belo Horizonte MG\", \"Estágio NOC Contagem MG\", \"Estágio NOC Nova Lima MG\", \"Estágio NOC remoto Brasil\", \"NOC Intern Belo Horizonte MG\", \"NOC Intern Contagem MG\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 25, \"fetch_errors\": 15, \"eligible\": 0, \"rejected\": 9, \"pending\": 16, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-11T05:59:02.860064+00:00",
         "id": 69,
         "started": "2026-10-11T05:58:41.041019+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
