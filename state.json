@@ -3255,11 +3255,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"ITSM Intern Contagem MG\", \"ITSM Intern Nova Lima MG\", \"ITSM Intern remoto Brasil\", \"Estágio Processos de TI Belo Horizonte MG\", \"Estágio Processos de TI Contagem MG\", \"Estágio Processos de TI Nova Lima MG\", \"Estágio Processos de TI remoto Brasil\", \"Estágio Controles de TI Belo Horizonte MG\", \"Estágio Controles de TI Contagem MG\", \"Estágio Controles de TI Nova Lima MG\", \"Estágio Controles de TI remoto Brasil\", \"Estágio Riscos de TI Belo Horizonte MG\", \"Estágio Riscos de TI Contagem MG\", \"Estágio Riscos de TI Nova Lima MG\", \"Estágio Riscos de TI remoto Brasil\", \"Estágio Compliance de TI Belo Horizonte MG\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 28, \"fetch_errors\": 12, \"eligible\": 0, \"rejected\": 8, \"pending\": 20, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-15T18:22:48.193547+00:00",
         "id": 88,
         "started": "2026-10-15T18:22:25.025622+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
