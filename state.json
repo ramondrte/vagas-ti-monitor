@@ -3393,11 +3393,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estágio Operações de TI Contagem MG\", \"Estágio Operações de TI Nova Lima MG\", \"Estágio Operações de TI remoto Brasil\", \"IT Operations Intern Belo Horizonte MG\", \"IT Operations Intern Contagem MG\", \"IT Operations Intern Nova Lima MG\", \"IT Operations Intern remoto Brasil\", \"Technology Operations Intern Belo Horizonte MG\", \"Technology Operations Intern Contagem MG\", \"Technology Operations Intern Nova Lima MG\", \"Technology Operations Intern remoto Brasil\", \"Infrastructure Operations Intern Belo Horizonte MG\", \"Infrastructure Operations Intern Contagem MG\", \"Infrastructure Operations Intern Nova Lima MG\", \"Infrastructure Operations Intern remoto Brasil\", \"Estágio Segurança da Informação Belo Horizonte MG\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 20, \"fetch_errors\": 20, \"eligible\": 0, \"rejected\": 6, \"pending\": 14, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-17T10:55:16.196882+00:00",
         "id": 97,
         "started": "2026-10-17T10:54:46.003408+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
