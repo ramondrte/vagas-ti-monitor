@@ -3769,11 +3769,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estágio Suporte Técnico Belo Horizonte MG\", \"Estágio Suporte Técnico Contagem MG\", \"Estágio Suporte Técnico Nova Lima MG\", \"Estágio Suporte Técnico remoto Brasil\", \"Estagiário de Suporte Belo Horizonte MG\", \"Estagiário de Suporte Contagem MG\", \"Estagiário de Suporte Nova Lima MG\", \"Estagiário de Suporte remoto Brasil\", \"IT Support Intern Belo Horizonte MG\", \"IT Support Intern Contagem MG\", \"IT Support Intern Nova Lima MG\", \"IT Support Intern remoto Brasil\", \"Technical Support Intern Belo Horizonte MG\", \"Technical Support Intern Contagem MG\", \"Technical Support Intern Nova Lima MG\", \"Technical Support Intern remoto Brasil\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 28, \"fetch_errors\": 12, \"eligible\": 0, \"rejected\": 12, \"pending\": 16, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-21T07:47:54.585677+00:00",
         "id": 119,
         "started": "2026-10-21T07:47:26.051390+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
