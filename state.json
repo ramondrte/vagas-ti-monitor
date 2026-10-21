@@ -3748,11 +3748,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"NOC Intern Belo Horizonte MG\", \"NOC Intern Contagem MG\", \"NOC Intern Nova Lima MG\", \"NOC Intern remoto Brasil\", \"Estágio Monitoramento Belo Horizonte MG\", \"Estágio Monitoramento Contagem MG\", \"Estágio Monitoramento Nova Lima MG\", \"Estágio Monitoramento remoto Brasil\", \"Monitoring Intern Belo Horizonte MG\", \"Monitoring Intern Contagem MG\", \"Monitoring Intern Nova Lima MG\", \"Monitoring Intern remoto Brasil\", \"Estágio Suporte de TI Belo Horizonte MG\", \"Estágio Suporte de TI Contagem MG\", \"Estágio Suporte de TI Nova Lima MG\", \"Estágio Suporte de TI remoto Brasil\"], \"errors\": 0, \"urls\": [\"https://www.indeed.com/career-advice/finding-a-job/what-is-an-optician\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 22, \"fetch_errors\": 18, \"eligible\": 0, \"rejected\": 7, \"pending\": 15, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-21T01:41:38.903436+00:00",
         "id": 118,
         "started": "2026-10-21T01:41:05.309707+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
