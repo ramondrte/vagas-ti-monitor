@@ -3851,11 +3851,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estagiário de Sistemas Belo Horizonte MG\", \"Estagiário de Sistemas Contagem MG\", \"Estagiário de Sistemas Nova Lima MG\", \"Estagiário de Sistemas remoto Brasil\", \"Estágio Corporativo em Tecnologia Belo Horizonte MG\", \"Estágio Corporativo em Tecnologia Contagem MG\", \"Estágio Corporativo em Tecnologia Nova Lima MG\", \"Estágio Corporativo em Tecnologia remoto Brasil\", \"Analista Júnior TI Belo Horizonte MG\", \"Analista Júnior TI Contagem MG\", \"Analista Júnior TI Nova Lima MG\", \"Analista Júnior TI remoto Brasil\", \"Assistente de TI Belo Horizonte MG\", \"Assistente de TI Contagem MG\", \"Assistente de TI Nova Lima MG\", \"Assistente de TI remoto Brasil\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 27, \"fetch_errors\": 13, \"eligible\": 1, \"rejected\": 17, \"pending\": 9, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-22T13:53:54.802090+00:00",
         "id": 125,
         "started": "2026-10-22T13:53:34.835542+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
