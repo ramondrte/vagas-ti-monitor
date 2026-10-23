@@ -1899,8 +1899,8 @@
         "error": null,
         "id": "2ab3c9c12e54ce435c49cd5b55435b48e5c2ff319cfbf7771a73d5580ffad225",
         "job_versions": "[[\"5dc9b6adfef864b755e785e35d51b161a73d98c23495074aab6e76e82466af67\", \"e639f3b6e7323290755f4bb58da1f33c997ee3439a8dbe122500667024face63\"]]",
-        "message_id": null,
-        "status": "sending"
+        "message_id": "<179279396113.2344.5111545470361734946@runnervmtai0g.1lhg1taclsjeljylvlfcus43sa.bx.internal.cloudapp.net>",
+        "status": "accepted"
       },
       {
         "created": "2026-09-29T00:31:54.490952+00:00",
@@ -3981,6 +3981,12 @@
         "fingerprint": "ab10ea3944894c805d3c00a89337f972ad6d651e6d6163b8329b08f2033c014d",
         "job_id": "5dc9b6adfef864b755e785e35d51b161a73d98c23495074aab6e76e82466af67",
         "sent_at": "2026-09-29T00:31:57.777661+00:00"
+      },
+      {
+        "delivery_id": "2ab3c9c12e54ce435c49cd5b55435b48e5c2ff319cfbf7771a73d5580ffad225",
+        "fingerprint": "e639f3b6e7323290755f4bb58da1f33c997ee3439a8dbe122500667024face63",
+        "job_id": "5dc9b6adfef864b755e785e35d51b161a73d98c23495074aab6e76e82466af67",
+        "sent_at": "2026-10-23T22:19:22.164099+00:00"
       }
     ]
   }
