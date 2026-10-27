@@ -4267,11 +4267,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Analista de Operações de TI Júnior remoto Brasil\", \"Analista de ITSM Júnior Belo Horizonte MG\", \"Analista de ITSM Júnior Contagem MG\", \"Analista de ITSM Júnior Nova Lima MG\", \"Analista de ITSM Júnior remoto Brasil\", \"Analista de Governança de TI Júnior Belo Horizonte MG\", \"Analista de Governança de TI Júnior Contagem MG\", \"Analista de Governança de TI Júnior Nova Lima MG\", \"Analista de Governança de TI Júnior remoto Brasil\", \"Assistente Governança Riscos Compliance TI Belo Horizonte MG\", \"Assistente Governança Riscos Compliance TI Contagem MG\", \"Assistente Governança Riscos Compliance TI Nova Lima MG\", \"Assistente Governança Riscos Compliance TI remoto Brasil\", \"Analista Júnior Governança Riscos Compliance TI Belo Horizonte MG\", \"Analista Júnior Governança Riscos Compliance TI Contagem MG\", \"Analista Júnior Governança Riscos Compliance TI Nova Lima MG\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 40, \"board_failures\": 0, \"fetched\": 27, \"fetch_errors\": 13, \"eligible\": 1, \"rejected\": 20, \"pending\": 6, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-10-27T19:29:00.096072+00:00",
         "id": 152,
         "started": "2026-10-27T19:28:34.020542+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
