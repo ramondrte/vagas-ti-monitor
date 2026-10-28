@@ -1983,8 +1983,8 @@
         "error": null,
         "id": "178e5b2ecc03ae6c3abf5a9337833732f23e7eb8417f5697ec518b082b67fdb2",
         "job_versions": "[[\"5dc9b6adfef864b755e785e35d51b161a73d98c23495074aab6e76e82466af67\", \"fb1aa23bd7090ef76c93950d31ffb9d80c4d36a7f7f0f62592461c6b59ab1fb7\"]]",
-        "message_id": null,
-        "status": "sending"
+        "message_id": "<179321372714.2172.14467240842785949204@runnervm48cm3.wgwr1edu2cpuroobfap2h4lqpg.gx.internal.cloudapp.net>",
+        "status": "accepted"
       },
       {
         "created": "2026-10-23T22:19:19.164249+00:00",
@@ -4352,6 +4352,12 @@
         "fingerprint": "e639f3b6e7323290755f4bb58da1f33c997ee3439a8dbe122500667024face63",
         "job_id": "5dc9b6adfef864b755e785e35d51b161a73d98c23495074aab6e76e82466af67",
         "sent_at": "2026-10-23T22:19:22.164099+00:00"
+      },
+      {
+        "delivery_id": "178e5b2ecc03ae6c3abf5a9337833732f23e7eb8417f5697ec518b082b67fdb2",
+        "fingerprint": "fb1aa23bd7090ef76c93950d31ffb9d80c4d36a7f7f0f62592461c6b59ab1fb7",
+        "job_id": "5dc9b6adfef864b755e785e35d51b161a73d98c23495074aab6e76e82466af67",
+        "sent_at": "2026-10-28T18:55:29.307555+00:00"
       }
     ]
   }
