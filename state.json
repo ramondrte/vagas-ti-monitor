@@ -4706,11 +4706,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"IT Intern Nova Lima MG\", \"IT Intern remoto Brasil\", \"Estagiário de Sistemas Belo Horizonte MG\", \"Estagiário de Sistemas Contagem MG\", \"Estagiário de Sistemas Nova Lima MG\", \"Estagiário de Sistemas remoto Brasil\", \"Estágio Corporativo em Tecnologia Belo Horizonte MG\", \"Estágio Corporativo em Tecnologia Contagem MG\", \"Estágio Corporativo em Tecnologia Nova Lima MG\", \"Estágio Corporativo em Tecnologia remoto Brasil\", \"Analista Júnior TI Belo Horizonte MG\", \"Analista Júnior TI Contagem MG\", \"Analista Júnior TI Nova Lima MG\", \"Analista Júnior TI remoto Brasil\", \"Assistente de TI Belo Horizonte MG\", \"Assistente de TI Contagem MG\"], \"errors\": 0, \"urls\": [\"https://www.indeed.com/q-Intern-jobs.html\", \"https://www.linkedin.com/jobs/internship-jobs\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 32, \"board_failures\": 0, \"fetched\": 20, \"fetch_errors\": 20, \"eligible\": 1, \"rejected\": 8, \"pending\": 11, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-11-01T19:46:30.320547+00:00",
         "id": 173,
         "started": "2026-11-01T19:45:57.492981+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
