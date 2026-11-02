@@ -4787,11 +4787,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Suporte N2 Nova Lima MG\", \"Suporte N2 remoto Brasil\", \"Analista de Suporte Júnior Belo Horizonte MG\", \"Analista de Suporte Júnior Contagem MG\", \"Analista de Suporte Júnior Nova Lima MG\", \"Analista de Suporte Júnior remoto Brasil\", \"Analista de Infraestrutura Júnior Belo Horizonte MG\", \"Analista de Infraestrutura Júnior Contagem MG\", \"Analista de Infraestrutura Júnior Nova Lima MG\", \"Analista de Infraestrutura Júnior remoto Brasil\", \"Analista de Monitoramento Júnior Belo Horizonte MG\", \"Analista de Monitoramento Júnior Contagem MG\", \"Analista de Monitoramento Júnior Nova Lima MG\", \"Analista de Monitoramento Júnior remoto Brasil\", \"Analista de Operações de TI Júnior Belo Horizonte MG\", \"Analista de Operações de TI Júnior Contagem MG\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 32, \"board_failures\": 0, \"fetched\": 33, \"fetch_errors\": 7, \"eligible\": 0, \"rejected\": 11, \"pending\": 22, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-11-02T06:23:57.100708+00:00",
         "id": 175,
         "started": "2026-11-02T06:23:31.678013+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
