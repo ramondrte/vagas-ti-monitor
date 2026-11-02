@@ -4889,11 +4889,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Analista Júnior Governança Riscos Compliance TI Nova Lima MG\", \"Analista Júnior Governança Riscos Compliance TI remoto Brasil\", \"estágio tecnologia \\\"IT Governance\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"ITSM\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"gestão de serviços de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"gestão de incidentes\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"gestão de problemas\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"gestão de mudanças\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"Change Management\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"SLA\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"indicadores de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"KPI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"processos de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"melhoria contínua\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"gestão de fornecedores de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\", \"estágio tecnologia \\\"gestão de contratos de TI\\\" (\\\"Belo Horizonte\\\" OR \\\"Contagem\\\" OR \\\"Nova Lima\\\" OR \\\"remoto\\\")\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 32, \"board_failures\": 0, \"fetched\": 27, \"fetch_errors\": 13, \"eligible\": 1, \"rejected\": 15, \"pending\": 11, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-11-02T23:55:39.434048+00:00",
         "id": 177,
         "started": "2026-11-02T23:55:09.425019+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
