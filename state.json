@@ -5143,11 +5143,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estágio Riscos de TI Contagem MG\", \"Estágio Riscos de TI Nova Lima MG\", \"Estágio Riscos de TI remoto Brasil\", \"Estágio Compliance de TI Belo Horizonte MG\", \"Estágio Compliance de TI Contagem MG\", \"Estágio Compliance de TI Nova Lima MG\", \"Estágio Compliance de TI remoto Brasil\", \"Estágio Auditoria de TI Belo Horizonte MG\", \"Estágio Auditoria de TI Contagem MG\", \"Estágio Auditoria de TI Nova Lima MG\", \"Estágio Auditoria de TI remoto Brasil\", \"Estágio Gestão de Incidentes Belo Horizonte MG\", \"Estágio Gestão de Incidentes Contagem MG\", \"Estágio Gestão de Incidentes Nova Lima MG\", \"Estágio Gestão de Incidentes remoto Brasil\", \"Incident Management Intern Belo Horizonte MG\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 32, \"board_failures\": 0, \"fetched\": 33, \"fetch_errors\": 7, \"eligible\": 0, \"rejected\": 23, \"pending\": 10, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-11-05T07:58:02.502086+00:00",
         "id": 185,
         "started": "2026-11-05T07:57:35.196936+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
