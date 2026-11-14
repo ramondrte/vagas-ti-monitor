@@ -1,10 +1,13 @@
-import copy,json,tempfile,unittest
+import copy,datetime as dt,json,tempfile,unittest
 from pathlib import Path
 from unittest.mock import patch
 import monitor as m
 class MonitorTests(unittest.TestCase):
  def setUp(self):
   self.tmp=tempfile.TemporaryDirectory();self.root=Path(self.tmp.name);self.c=m.connect(self.root);self.cfg=json.loads((m.ROOT/'config.json').read_text());self.job=json.loads((Path(__file__).resolve().parent/'fixture_review.json').read_text())[0];self.job['verified_at']=m.now()
+  # Ajustar somente a cópia em memória; preservar a fixture histórica no disco.
+  deadline=dt.date.today()+dt.timedelta(days=30)
+  self.job.update(deadline_iso=deadline.isoformat(),deadline=deadline.strftime('%d/%m/%Y'))
   self.c.execute('INSERT INTO candidates VALUES(?,?,?,?,?,NULL)',(self.job['url'],'test',m.now(),m.now(),json.dumps({'text':'Candidatar-se'})));self.c.commit()
  def tearDown(self):self.c.close();self.tmp.cleanup()
  def accept(self,j=None):m.ingest(self.c,[j or self.job],self.cfg)
@@ -34,12 +37,25 @@ class MonitorTests(unittest.TestCase):
  def test_development_area(self):self.invalid(area='Desenvolvimento de Software')
  def test_entry(self):
   j=copy.deepcopy(self.job);j.update(kind='entry',title='Técnico de Suporte N1');m.validate(j,self.cfg)
- def test_expired(self):self.invalid(deadline_iso='2020-01-01')
+ def test_deadline_today(self):
+  j=copy.deepcopy(self.job);j['deadline_iso']=dt.date.today().isoformat();m.validate(j,self.cfg)
+ def test_expired(self):
+  j=copy.deepcopy(self.job);j['deadline_iso']=(dt.date.today()-dt.timedelta(days=1)).isoformat()
+  with self.assertRaisesRegex(ValueError,'^Prazo encerrado$'):self.accept(j)
+  self.assertEqual(self.c.execute('SELECT COUNT(*) FROM jobs').fetchone()[0],0)
  def test_stale(self):self.invalid(verified_at='2020-01-01T00:00:00+00:00')
  def test_experience(self):self.invalid(experience_years=3)
  def test_no_description(self):self.invalid(description_reviewed=False)
  def test_no_email_empty(self):
   with patch.object(m,'smtp_send') as send:self.assertFalse(m.dispatch(self.c,self.cfg,True)['sent']);send.assert_not_called()
+ def test_dry_run_no_notification_history(self):
+  self.accept()
+  with patch.object(m,'ROOT',self.root),patch.object(m,'smtp_send') as send:
+   result=m.dispatch(self.c,self.cfg,False);send.assert_not_called()
+  self.assertEqual(result['new_jobs'],1);self.assertFalse(result['sent'])
+  for table in ['sent','deliveries']:
+   self.assertEqual(self.c.execute('SELECT COUNT(*) FROM '+table).fetchone()[0],0)
+  self.assertEqual(len(m.pending(self.c,self.cfg)),1)
  def test_dispatch_and_no_resend(self):
   self.accept()
   with patch.object(m,'ROOT',self.root),patch.dict(m.os.environ,{'EMAIL_ENABLED':'true'}),patch.object(m,'fetch',return_value={'text':'Candidatar-se','job_postings':[]}),patch.object(m,'smtp_send',return_value='<test@local>') as send:
