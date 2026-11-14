@@ -1,0 +1,53 @@
+name: Radar TI - teste isolado da newsletter
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirmation:
+        description: 'Digite ENVIAR-UM-TESTE para autorizar uma única mensagem para a conta SMTP_USER'
+        required: true
+        type: string
+        default: 'NAO-ENVIAR'
+      reviewed_sha:
+        description: 'SHA completo (40 caracteres) do commit revisado na main'
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: radar-ti-newsletter-test
+  cancel-in-progress: false
+
+jobs:
+  send-test:
+    if: >-
+      github.event_name == 'workflow_dispatch' &&
+      github.repository == 'ramondrte/vagas-ti-monitor' &&
+      github.event.repository.private == false &&
+      github.ref == 'refs/heads/main' &&
+      github.run_attempt == 1 &&
+      inputs.confirmation == 'ENVIAR-UM-TESTE' &&
+      inputs.reviewed_sha == github.sha
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+          ref: ${{ github.sha }}
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Validar isolamento sem credenciais
+        run: |
+          python -m unittest test_newsletter_test
+          python send_newsletter_test.py
+      - name: Enviar exatamente uma newsletter fictícia
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          RADAR_TEST_CONFIRMATION: ${{ inputs.confirmation }}
+          RADAR_TEST_REVIEWED_SHA: ${{ inputs.reviewed_sha }}
+        run: python send_newsletter_test.py --send
