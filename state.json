@@ -5436,11 +5436,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"IT Risk Intern Contagem MG\", \"IT Risk Intern Nova Lima MG\", \"IT Risk Intern remoto Brasil\", \"Technology Risk Intern Belo Horizonte MG\", \"Technology Risk Intern Contagem MG\", \"Technology Risk Intern Nova Lima MG\", \"Technology Risk Intern remoto Brasil\", \"Estagiário de Tecnologia Belo Horizonte MG\", \"Estagiário de Tecnologia Contagem MG\", \"Estagiário de Tecnologia Nova Lima MG\", \"Estagiário de Tecnologia remoto Brasil\", \"Technology Intern Belo Horizonte MG\", \"Technology Intern Contagem MG\", \"Technology Intern Nova Lima MG\", \"Technology Intern remoto Brasil\", \"IT Intern Belo Horizonte MG\"], \"errors\": 0, \"urls\": [\"https://www.indeed.com/q-Intern-jobs.html\", \"https://www.linkedin.com/jobs/internship-jobs\", \"https://www.linkedin.com/jobs/internship-jobs-los-angeles-ca\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 32, \"board_failures\": 0, \"fetched\": 26, \"fetch_errors\": 14, \"eligible\": 0, \"rejected\": 12, \"pending\": 14, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-11-14T23:10:51.376857+00:00",
         "id": 196,
         "started": "2026-11-14T23:10:13.074944+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
