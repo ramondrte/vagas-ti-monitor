@@ -3,6 +3,7 @@
 import argparse, datetime as dt, email.message, email.utils, fcntl, hashlib, html, json, logging, os, re, smtplib, sqlite3, ssl, time, unicodedata, urllib.parse, urllib.request, xml.etree.ElementTree as ET
 from pathlib import Path
 from logging.handlers import RotatingFileHandler
+from email_template import render_html, render_plain, subject as alert_subject
 ROOT=Path(os.environ.get('MONITOR_ROOT',Path(__file__).resolve().parent)).resolve()
 UNKNOWN='Não informado / precisa confirmar'
 FIELDS={'company':'Empresa','title':'Cargo','location':'Localização','modality':'Modalidade','area':'Área principal','salary':'Bolsa/salário','benefits':'Benefícios','hours':'Carga horária','course':'Curso exigido','semester':'Semestre/período exigido','graduation':'Previsão de formatura exigida','activities':'Principais atividades','requirements':'Principais requisitos','desirable':'Conhecimentos desejáveis','deadline':'Prazo de inscrição','published':'Data da publicação','url':'Link oficial da vaga','source':'Fonte','found_at':'Data em que a automação encontrou a vaga','compatibility':'Compatibilidade com meu perfil'}
@@ -133,11 +134,8 @@ def pending(c,config):
   updated=c.execute('SELECT 1 FROM sent WHERE job_id=?',(r['id'],)).fetchone() is not None
   result.append((r['id'],r['fingerprint'],j,updated))
  return sorted(result,key=lambda x:(x[2]['kind']!='internship',config['area_order'].index(x[2]['area'])))
-def render(rows):
- chunks=[]
- for _,_,j,updated in rows:
-  chunks.append(('Vaga atualizada\n' if updated else '')+'\n'.join(f'{label}: {j.get(k,UNKNOWN)}' for k,label in FIELDS.items())+'\nLink para candidatura: '+j.get('application_url',j['url']))
- return '\n\n'+'\n\n'+'\n\n'.join(chunks)
+def render(rows,official_domains=()):
+ return render_plain(rows,FIELDS,official_domains)
 def env_load():
  if os.getenv('GITHUB_ACTIONS')=='true': return
  p=ROOT/'.env'
@@ -145,7 +143,7 @@ def env_load():
   for line in p.read_text().splitlines():
    if line.strip() and not line.lstrip().startswith('#'):
     k,v=line.split('=',1);os.environ.setdefault(k.strip(),v.strip().strip('\"\x27'))
-def smtp_send(subject,body):
+def smtp_send(subject,body,html_body=None):
  env_load()
  os.environ.setdefault('SMTP_HOST','smtp.gmail.com')
  os.environ.setdefault('MAIL_FROM',os.environ.get('SMTP_USER',''))
@@ -153,6 +151,7 @@ def smtp_send(subject,body):
  for k in ['SMTP_HOST','SMTP_USER','SMTP_PASSWORD','MAIL_FROM','MAIL_TO']:
   if not os.getenv(k) or os.getenv(k).startswith('PREENCHA'):raise ValueError('Configure '+k+' em GitHub Actions Secrets ou no ambiente')
  msg=email.message.EmailMessage();msg['From']=os.environ['MAIL_FROM'];msg['To']=os.environ['MAIL_TO'];msg['Subject']=subject;msg['Message-ID']=email.utils.make_msgid();msg['Date']=email.utils.formatdate(localtime=True);msg.set_content(body)
+ if html_body is not None:msg.add_alternative(html_body,subtype='html')
  port=int(os.getenv('SMTP_PORT','465'));ctx=ssl.create_default_context()
  if port==465: server=smtplib.SMTP_SSL(os.environ['SMTP_HOST'],port,timeout=30,context=ctx)
  else:
@@ -166,7 +165,12 @@ def dispatch(c,config,send=False,checkpoint=None):
  checkpoint=checkpoint or (lambda: None)
  rows=pending(c,config)
  if not rows:return {'new_jobs':0,'sent':False}
- body=render(rows); (ROOT/'data/preview.txt').write_text(body)
+ domains=config.get('official_domains',[])
+ body=render(rows,domains)
+ generated_at=dt.datetime.now(dt.timezone.utc).strftime('%d/%m/%Y às %H:%M UTC')
+ html_body=render_html(rows,generated_at,domains)
+ (ROOT/'data/preview.txt').write_text(body,encoding='utf-8')
+ (ROOT/'data/preview.html').write_text(html_body,encoding='utf-8')
  if not send:return {'new_jobs':len(rows),'sent':False,'preview':'data/preview.txt'}
  if c.execute("SELECT 1 FROM deliveries WHERE status IN ('sending','uncertain')").fetchone():raise ValueError('Envio anterior incerto; verificar caixa enviada antes de repetir')
  env_load()
@@ -184,7 +188,7 @@ def dispatch(c,config,send=False,checkpoint=None):
  did=digest([now(),[(a,b) for a,b,_,_ in rows]])
  c.execute('INSERT INTO deliveries VALUES(?,?,?,?,?,NULL)',(did,now(),'sending',json.dumps([(a,b) for a,b,_,_ in rows]),None));c.commit()
  checkpoint()  # Durável ANTES do SMTP: uma queda nunca causa repetição cega.
- try:mid=smtp_send(f'🚨 Novas vagas de estágio em TI — {len(rows)} vagas encontradas',body)
+ try:mid=smtp_send(alert_subject(rows),body,html_body=html_body)
  except Exception as e:
   c.execute('UPDATE deliveries SET status=?,error=? WHERE id=?',('uncertain',type(e).__name__,did));c.commit();checkpoint();raise
  c.execute('UPDATE deliveries SET status=?,message_id=? WHERE id=?',('accepted',mid,did))
