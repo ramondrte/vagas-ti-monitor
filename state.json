@@ -5452,11 +5452,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Assistente de TI Contagem MG\", \"Assistente de TI Nova Lima MG\", \"Assistente de TI remoto Brasil\", \"Técnico de Suporte Belo Horizonte MG\", \"Técnico de Suporte Contagem MG\", \"Técnico de Suporte Nova Lima MG\", \"Técnico de Suporte remoto Brasil\", \"Operador de NOC Belo Horizonte MG\", \"Operador de NOC Contagem MG\", \"Operador de NOC Nova Lima MG\", \"Operador de NOC remoto Brasil\", \"Suporte N1 Belo Horizonte MG\", \"Suporte N1 Contagem MG\", \"Suporte N1 Nova Lima MG\", \"Suporte N1 remoto Brasil\", \"Suporte N2 Belo Horizonte MG\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 32, \"board_failures\": 0, \"fetched\": 29, \"fetch_errors\": 11, \"eligible\": 0, \"rejected\": 12, \"pending\": 17, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-11-15T11:11:43.639572+00:00",
         "id": 198,
         "started": "2026-11-15T11:11:12.060023+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
