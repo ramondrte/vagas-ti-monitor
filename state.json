@@ -5751,11 +5751,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estágio Riscos de TI Belo Horizonte MG\", \"Estágio Riscos de TI Contagem MG\", \"Estágio Riscos de TI Nova Lima MG\", \"Estágio Riscos de TI remoto Brasil\", \"Estágio Compliance de TI Belo Horizonte MG\", \"Estágio Compliance de TI Contagem MG\", \"Estágio Compliance de TI Nova Lima MG\", \"Estágio Compliance de TI remoto Brasil\", \"Estágio Auditoria de TI Belo Horizonte MG\", \"Estágio Auditoria de TI Contagem MG\", \"Estágio Auditoria de TI Nova Lima MG\", \"Estágio Auditoria de TI remoto Brasil\", \"Estágio Gestão de Incidentes Belo Horizonte MG\", \"Estágio Gestão de Incidentes Contagem MG\", \"Estágio Gestão de Incidentes Nova Lima MG\", \"Estágio Gestão de Incidentes remoto Brasil\"], \"errors\": 0, \"urls\": [\"https://www.indeed.com\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 30, \"board_failures\": 0, \"fetched\": 28, \"fetch_errors\": 12, \"eligible\": 0, \"rejected\": 16, \"pending\": 12, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-11-18T22:08:03.820909+00:00",
         "id": 209,
         "started": "2026-11-18T22:07:30.845094+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
