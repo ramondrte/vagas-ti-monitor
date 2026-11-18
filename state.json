@@ -5706,11 +5706,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estágio IT Governance Belo Horizonte MG\", \"Estágio IT Governance Contagem MG\", \"Estágio IT Governance Nova Lima MG\", \"Estágio IT Governance remoto Brasil\", \"IT Governance Intern Belo Horizonte MG\", \"IT Governance Intern Contagem MG\", \"IT Governance Intern Nova Lima MG\", \"IT Governance Intern remoto Brasil\", \"Estágio Gestão de TI Belo Horizonte MG\", \"Estágio Gestão de TI Contagem MG\", \"Estágio Gestão de TI Nova Lima MG\", \"Estágio Gestão de TI remoto Brasil\", \"Estágio Gestão de Serviços de TI Belo Horizonte MG\", \"Estágio Gestão de Serviços de TI Contagem MG\", \"Estágio Gestão de Serviços de TI Nova Lima MG\", \"Estágio Gestão de Serviços de TI remoto Brasil\"], \"errors\": 0, \"urls\": [\"https://bronsonhg.wd1.myworkdayjobs.com/newhires/job/Bronson-Battle-Creek/Practice-Support-Assistant--Clinic-Receptionist----36-hrs-week---Bronson-Orthopedic-Specialists---Battle-Creek_JOB49779\", \"https://bronsonhg.wd1.myworkdayjobs.com/newhires/job/Bronson-Cancer-Center---Kalamazoo/Registered-Nurse-Chemotherapy-Infusion--Part-time--30-hours-per-pay-period----Monday-Friday--Bronson-Cancer-Center---Kalamazoo_JOB50784\", \"https://bronsonhg.wd1.myworkdayjobs.com/newhires/job/Bronson-Healthcare-Group/Bronson-Methodist-Hospital-Patient-Representative-Full-Time_JOB51079\", \"https://bronsonhg.wd1.myworkdayjobs.com/newhires/job/Bronson-Methodist-Hospital/BMH-Diagnostic-Imaging-Technologist---Full-Time_JOB22377\", \"https://bronsonhg.wd1.myworkdayjobs.com/newhires/job/Bronson-Methodist-Hospital/Patient-Care-Assistant--Part-Time-Nights--60hrs---Pediatrics--Bronson-Methodist-Hospital--Kalamazoo_JOB51030\", \"https://bronsonhg.wd1.myworkdayjobs.com/newhires/job/Bronson-Methodist-Hospital/Registered-Nurse---PACU---Variable---72-hrs-pp---Bronson-Methodist-Hospital_JOB50982-2\", \"https://bronsonhg.wd1.myworkdayjobs.com/newhires/job/Kalamazoo-252-E-Lovell-St---Bronson-Methodist-Hospital/Registered-Nurse---RN-----Labor---Delivery---Bronson-Methodist-Hospital---Full-time-12D_JOB50978-2\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 31, \"board_failures\": 0, \"fetched\": 28, \"fetch_errors\": 12, \"eligible\": 0, \"rejected\": 19, \"pending\": 9, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-11-18T04:32:03.204564+00:00",
         "id": 207,
         "started": "2026-11-18T04:31:30.578837+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
