@@ -6046,11 +6046,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Assistente de TI Belo Horizonte MG\", \"Assistente de TI Contagem MG\", \"Assistente de TI Nova Lima MG\", \"Assistente de TI remoto Brasil\", \"Técnico de Suporte Belo Horizonte MG\", \"Técnico de Suporte Contagem MG\", \"Técnico de Suporte Nova Lima MG\", \"Técnico de Suporte remoto Brasil\", \"Operador de NOC Belo Horizonte MG\", \"Operador de NOC Contagem MG\", \"Operador de NOC Nova Lima MG\", \"Operador de NOC remoto Brasil\", \"Suporte N1 Belo Horizonte MG\", \"Suporte N1 Contagem MG\", \"Suporte N1 Nova Lima MG\", \"Suporte N1 remoto Brasil\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 30, \"board_failures\": 0, \"fetched\": 25, \"fetch_errors\": 15, \"eligible\": 0, \"rejected\": 11, \"pending\": 14, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-11-22T22:32:07.018763+00:00",
         "id": 222,
         "started": "2026-11-22T22:31:37.510006+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
