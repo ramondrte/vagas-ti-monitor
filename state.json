@@ -6054,11 +6054,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Suporte N2 Belo Horizonte MG\", \"Suporte N2 Contagem MG\", \"Suporte N2 Nova Lima MG\", \"Suporte N2 remoto Brasil\", \"Analista de Suporte Júnior Belo Horizonte MG\", \"Analista de Suporte Júnior Contagem MG\", \"Analista de Suporte Júnior Nova Lima MG\", \"Analista de Suporte Júnior remoto Brasil\", \"Analista de Infraestrutura Júnior Belo Horizonte MG\", \"Analista de Infraestrutura Júnior Contagem MG\", \"Analista de Infraestrutura Júnior Nova Lima MG\", \"Analista de Infraestrutura Júnior remoto Brasil\", \"Analista de Monitoramento Júnior Belo Horizonte MG\", \"Analista de Monitoramento Júnior Contagem MG\", \"Analista de Monitoramento Júnior Nova Lima MG\", \"Analista de Monitoramento Júnior remoto Brasil\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 30, \"board_failures\": 0, \"fetched\": 28, \"fetch_errors\": 12, \"eligible\": 0, \"rejected\": 16, \"pending\": 12, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-11-23T03:46:42.176039+00:00",
         "id": 223,
         "started": "2026-11-23T03:46:20.179445+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
