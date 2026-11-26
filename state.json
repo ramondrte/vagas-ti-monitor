@@ -6322,11 +6322,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estagiário Governança de TI remoto Brasil\", \"Estágio IT Governance Belo Horizonte MG\", \"Estágio IT Governance Contagem MG\", \"Estágio IT Governance Nova Lima MG\", \"Estágio IT Governance remoto Brasil\", \"IT Governance Intern Belo Horizonte MG\", \"IT Governance Intern Contagem MG\", \"IT Governance Intern Nova Lima MG\", \"IT Governance Intern remoto Brasil\", \"Estágio Gestão de TI Belo Horizonte MG\", \"Estágio Gestão de TI Contagem MG\", \"Estágio Gestão de TI Nova Lima MG\", \"Estágio Gestão de TI remoto Brasil\", \"Estágio Gestão de Serviços de TI Belo Horizonte MG\", \"Estágio Gestão de Serviços de TI Contagem MG\", \"Estágio Gestão de Serviços de TI Nova Lima MG\"], \"errors\": 0, \"urls\": [\"https://job-boards.greenhouse.io/ionq/jobs/5805513004\", \"https://job-boards.greenhouse.io/ionq/jobs/5818448004\", \"https://job-boards.greenhouse.io/ionq/jobs/5981918004\", \"https://job-boards.greenhouse.io/ionq/jobs/5994825004?gh_src=my.greenhouse.search\", \"https://job-boards.greenhouse.io/ionq/jobs/6001723004\", \"https://job-boards.greenhouse.io/ionq/jobs/6001768004?gh_src=79b8e2bf4us\", \"https://job-boards.greenhouse.io/ionq/jobs/6008408004\", \"https://job-boards.greenhouse.io/ionq/jobs/6009486004?gh_src=my.greenhouse.search\", \"https://job-boards.greenhouse.io/ionq/jobs/6017983004?gh_src=navad\", \"https://job-boards.greenhouse.io/ionq/jobs/6107170004?gh_src=Breakthrough+Energy+Ventures+job+board\"], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 29, \"board_failures\": 0, \"fetched\": 30, \"fetch_errors\": 10, \"eligible\": 0, \"rejected\": 18, \"pending\": 12, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-11-26T12:50:38.112058+00:00",
         "id": 231,
         "started": "2026-11-26T12:50:06.952136+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
