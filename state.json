@@ -6427,11 +6427,11 @@
       },
       {
         "command": "cloud:live",
-        "detail": null,
-        "finished": null,
+        "detail": "{\"queries\": 16, \"query_texts\": [\"Estágio Service Management remoto Brasil\", \"IT Service Management Intern Belo Horizonte MG\", \"IT Service Management Intern Contagem MG\", \"IT Service Management Intern Nova Lima MG\", \"IT Service Management Intern remoto Brasil\", \"Estágio Infraestrutura de TI Belo Horizonte MG\", \"Estágio Infraestrutura de TI Contagem MG\", \"Estágio Infraestrutura de TI Nova Lima MG\", \"Estágio Infraestrutura de TI remoto Brasil\", \"Estagiário de Infraestrutura Belo Horizonte MG\", \"Estagiário de Infraestrutura Contagem MG\", \"Estagiário de Infraestrutura Nova Lima MG\", \"Estagiário de Infraestrutura remoto Brasil\", \"Infrastructure Intern Belo Horizonte MG\", \"Infrastructure Intern Contagem MG\", \"Infrastructure Intern Nova Lima MG\"], \"errors\": 0, \"urls\": [], \"note\": \"RSS complementar; listagens oficiais e análise local executadas por sources.py.\", \"board_urls\": 29, \"board_failures\": 0, \"fetched\": 30, \"fetch_errors\": 10, \"eligible\": 0, \"rejected\": 18, \"pending\": 12, \"new_jobs\": 0, \"sent\": false}",
+        "finished": "2026-11-27T23:34:35.390975+00:00",
         "id": 235,
         "started": "2026-11-27T23:34:15.853480+00:00",
-        "status": "running"
+        "status": "ok"
       }
     ],
     "sent": [
