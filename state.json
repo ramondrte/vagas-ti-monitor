@@ -587,6 +587,10 @@
         "job_id": "ecd626629f622df25e7f68e605c4f3f85eb908214d85f7620acc0fecd5cc3fce"
       },
       {
+        "alias": "url:https://www.accenture.com/us-en/careers",
+        "job_id": "ff5867545584c891de433c1cf4d228558e2adca30c3c7a6826429c8f0ae8a86e"
+      },
+      {
         "alias": "url:https://www.linkedin.com/company/accenture",
         "job_id": "0e079dcdef6bd34a33f68226ec25d23f3dd12749677afcf5c58da7e2e3a3d927"
       },
@@ -920,7 +924,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-10-19T04:55:12.727705+00:00",
-        "last_seen": "2026-11-26T02:54:29.382870+00:00",
+        "last_seen": "2026-11-27T23:34:30.846553+00:00",
         "source": "Bing RSS: Accenture carreiras estágio TI governança infraestrutura suporte",
         "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/page/c1c4e30aa89710013ff382c28d150000"
       },
@@ -1040,7 +1044,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-10-07T22:03:45.108289+00:00",
-        "last_seen": "2026-11-25T19:25:08.591999+00:00",
+        "last_seen": "2026-11-27T23:34:27.710872+00:00",
         "source": "Listagem oficial https://cadastra.gupy.io/",
         "url": "https://cadastra.gupy.io/jobs/12395356"
       },
@@ -1088,7 +1092,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-09-29T00:04:36.766679+00:00",
-        "last_seen": "2026-11-25T19:25:11.545653+00:00",
+        "last_seen": "2026-11-27T23:34:29.705644+00:00",
         "source": "Página oficial",
         "url": "https://cadastra.gupy.io/jobs/12437989"
       },
@@ -1176,7 +1180,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-10-20T18:31:46.994427+00:00",
-        "last_seen": "2026-11-25T19:25:09.949701+00:00",
+        "last_seen": "2026-11-27T23:34:28.822557+00:00",
         "source": "Listagem oficial https://cadastra.gupy.io/",
         "url": "https://cadastra.gupy.io/jobs/12745549"
       },
@@ -1192,7 +1196,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-11-04T18:42:14.975050+00:00",
-        "last_seen": "2026-11-25T19:25:07.297667+00:00",
+        "last_seen": "2026-11-27T23:34:26.805666+00:00",
         "source": "Listagem oficial https://cadastra.gupy.io/",
         "url": "https://cadastra.gupy.io/jobs/12782316"
       },
@@ -1488,7 +1492,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-09-29T00:26:26.645549+00:00",
-        "last_seen": "2026-11-26T02:54:31.502709+00:00",
+        "last_seen": "2026-11-27T23:34:32.541639+00:00",
         "source": "Listagem oficial https://programadeestagiosantacasabh.gupy.io/",
         "url": "https://programadeestagiosantacasabh.gupy.io/jobs/11020764"
       },
@@ -1544,7 +1548,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-10-19T04:55:13.575832+00:00",
-        "last_seen": "2026-11-26T02:54:30.226315+00:00",
+        "last_seen": "2026-11-27T23:34:31.740347+00:00",
         "source": "Listagem oficial https://programadeestagiosantacasabh.gupy.io/",
         "url": "https://programadeestagiosantacasabh.gupy.io/jobs/11863196"
       },
@@ -1576,7 +1580,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-10-27T06:24:14.330167+00:00",
-        "last_seen": "2026-11-25T19:25:08.022814+00:00",
+        "last_seen": "2026-11-27T23:34:27.448742+00:00",
         "source": "Listagem oficial https://programadeestagiosantacasabh.gupy.io/",
         "url": "https://programadeestagiosantacasabh.gupy.io/jobs/12060457"
       },
@@ -1584,7 +1588,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-10-27T06:24:14.330308+00:00",
-        "last_seen": "2026-11-25T19:25:08.237638+00:00",
+        "last_seen": "2026-11-27T23:34:27.532034+00:00",
         "source": "Listagem oficial https://programadeestagiosantacasabh.gupy.io/",
         "url": "https://programadeestagiosantacasabh.gupy.io/jobs/12150276"
       },
@@ -1688,7 +1692,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-11-03T15:17:56.296140+00:00",
-        "last_seen": "2026-11-25T19:25:10.745241+00:00",
+        "last_seen": "2026-11-27T23:34:29.210870+00:00",
         "source": "Listagem oficial https://programadeestagiosantacasabh.gupy.io/",
         "url": "https://programadeestagiosantacasabh.gupy.io/jobs/12796851"
       },
@@ -1696,7 +1700,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-11-03T15:17:56.296100+00:00",
-        "last_seen": "2026-11-25T19:25:10.361889+00:00",
+        "last_seen": "2026-11-27T23:34:29.050374+00:00",
         "source": "Listagem oficial https://programadeestagiosantacasabh.gupy.io/",
         "url": "https://programadeestagiosantacasabh.gupy.io/jobs/12798875"
       },
@@ -1704,7 +1708,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-11-03T15:17:56.296121+00:00",
-        "last_seen": "2026-11-25T19:25:10.513978+00:00",
+        "last_seen": "2026-11-27T23:34:29.127743+00:00",
         "source": "Listagem oficial https://programadeestagiosantacasabh.gupy.io/",
         "url": "https://programadeestagiosantacasabh.gupy.io/jobs/12799006"
       },
@@ -1712,7 +1716,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-11-03T15:17:56.296006+00:00",
-        "last_seen": "2026-11-25T19:25:10.167133+00:00",
+        "last_seen": "2026-11-27T23:34:28.907150+00:00",
         "source": "Listagem oficial https://programadeestagiosantacasabh.gupy.io/",
         "url": "https://programadeestagiosantacasabh.gupy.io/jobs/12808323"
       },
@@ -1776,7 +1780,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-09-29T00:26:28.223015+00:00",
-        "last_seen": "2026-11-25T19:25:08.992069+00:00",
+        "last_seen": "2026-11-27T23:34:27.872190+00:00",
         "source": "Listagem oficial https://teknisa.gupy.io/",
         "url": "https://teknisa.gupy.io/jobs/12061554"
       },
@@ -1808,7 +1812,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-09-29T00:26:28.223069+00:00",
-        "last_seen": "2026-11-25T19:25:09.339078+00:00",
+        "last_seen": "2026-11-27T23:34:28.077503+00:00",
         "source": "Listagem oficial https://teknisa.gupy.io/",
         "url": "https://teknisa.gupy.io/jobs/12434159"
       },
@@ -1824,7 +1828,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-09-29T00:26:28.223044+00:00",
-        "last_seen": "2026-11-25T19:25:09.145793+00:00",
+        "last_seen": "2026-11-27T23:34:27.974820+00:00",
         "source": "Listagem oficial https://teknisa.gupy.io/",
         "url": "https://teknisa.gupy.io/jobs/12514373"
       },
@@ -1872,7 +1876,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-10-19T22:28:05.352803+00:00",
-        "last_seen": "2026-11-25T19:25:06.694863+00:00",
+        "last_seen": "2026-11-27T23:34:26.631518+00:00",
         "source": "Listagem oficial https://teknisa.gupy.io/",
         "url": "https://teknisa.gupy.io/jobs/12747605"
       },
@@ -1920,7 +1924,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-09-29T00:04:37.697439+00:00",
-        "last_seen": "2026-11-26T02:54:28.150293+00:00",
+        "last_seen": "2026-11-27T23:34:30.122664+00:00",
         "source": "Página oficial",
         "url": "https://vinci-energies.gupy.io/jobs/11715672"
       },
@@ -1952,7 +1956,7 @@
         "document": null,
         "error": "HTTPError",
         "first_seen": "2026-09-29T00:26:22.830598+00:00",
-        "last_seen": "2026-11-26T02:54:31.467575+00:00",
+        "last_seen": "2026-11-27T23:34:32.518862+00:00",
         "source": "Bing RSS: Estágio IT Governance remoto Brasil",
         "url": "https://www.indeed.com/career-advice/resumes-cover-letters/how-to-write-a-cover-letter"
       },
@@ -1960,7 +1964,7 @@
         "document": null,
         "error": "HTTPError",
         "first_seen": "2026-09-29T00:26:22.830374+00:00",
-        "last_seen": "2026-11-26T02:54:31.429850+00:00",
+        "last_seen": "2026-11-27T23:34:32.494367+00:00",
         "source": "Bing RSS: Estágio IT Governance remoto Brasil",
         "url": "https://www.indeed.com/career-advice/resumes-cover-letters/what-is-a-cover-letter"
       },
@@ -1976,7 +1980,7 @@
         "document": null,
         "error": "HTTPError",
         "first_seen": "2026-09-30T12:45:23.308373+00:00",
-        "last_seen": "2026-11-25T19:25:11.334642+00:00",
+        "last_seen": "2026-11-27T23:34:29.605385+00:00",
         "source": "Bing RSS: Estagiário de Suporte Belo Horizonte MG",
         "url": "https://www.indeed.com/cmp/Microsoft/locations/WA/Bellevue"
       },
@@ -2088,7 +2092,7 @@
         "document": null,
         "error": "HTTPError",
         "first_seen": "2026-09-30T12:45:23.308323+00:00",
-        "last_seen": "2026-11-25T19:25:09.667338+00:00",
+        "last_seen": "2026-11-27T23:34:28.189381+00:00",
         "source": "Bing RSS: Estagiário de Suporte Belo Horizonte MG",
         "url": "https://www.indeed.com/q-Microsoft-Full-Time-l-Bellevue,-WA-jobs.html"
       },
@@ -2096,7 +2100,7 @@
         "document": null,
         "error": "HTTPError",
         "first_seen": "2026-09-30T12:45:23.308137+00:00",
-        "last_seen": "2026-11-25T19:25:09.617817+00:00",
+        "last_seen": "2026-11-27T23:34:28.167024+00:00",
         "source": "Bing RSS: Estagiário de Suporte Belo Horizonte MG",
         "url": "https://www.indeed.com/q-Microsoft-l-Bellevue,-WA-jobs.html"
       },
@@ -2128,7 +2132,7 @@
         "document": null,
         "error": "HTTPError",
         "first_seen": "2026-10-01T02:13:09.690773+00:00",
-        "last_seen": "2026-11-25T19:25:08.949354+00:00",
+        "last_seen": "2026-11-27T23:34:27.843098+00:00",
         "source": "Bing RSS: Security Operations Intern Belo Horizonte MG",
         "url": "https://www.indeed.com/q-Security-Officer-l-Somerset,-NJ-jobs.html"
       },
@@ -2136,7 +2140,7 @@
         "document": null,
         "error": "HTTPError",
         "first_seen": "2026-11-22T00:25:28.519528+00:00",
-        "last_seen": "2026-11-26T02:54:28.114950+00:00",
+        "last_seen": "2026-11-27T23:34:30.102918+00:00",
         "source": "Bing RSS: Security Operations Intern Belo Horizonte MG",
         "url": "https://www.indeed.com/q-Security-l-Lansing,-MI-jobs.html"
       },
@@ -2144,7 +2148,7 @@
         "document": null,
         "error": "HTTPError",
         "first_seen": "2026-10-01T02:13:09.690527+00:00",
-        "last_seen": "2026-11-25T19:25:08.895301+00:00",
+        "last_seen": "2026-11-27T23:34:27.820650+00:00",
         "source": "Bing RSS: Security Operations Intern Belo Horizonte MG",
         "url": "https://www.indeed.com/q-Security-l-New-Jersey-jobs.html"
       },
@@ -2152,7 +2156,7 @@
         "document": null,
         "error": "HTTPError",
         "first_seen": "2026-10-06T17:16:24.640343+00:00",
-        "last_seen": "2026-11-25T19:25:11.101584+00:00",
+        "last_seen": "2026-11-27T23:34:29.484081+00:00",
         "source": "Bing RSS: Security Operations Intern Belo Horizonte MG",
         "url": "https://www.indeed.com/q-Security-l-Riverside,-CA-jobs.html"
       },
@@ -2240,7 +2244,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-10-19T04:55:07.897272+00:00",
-        "last_seen": "2026-11-26T02:54:28.716220+00:00",
+        "last_seen": "2026-11-27T23:34:30.240155+00:00",
         "source": "Bing RSS: Lhoist carreiras estágio TI governança infraestrutura suporte",
         "url": "https://www.linkedin.com/company/lhoist"
       },
@@ -2264,7 +2268,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-10-09T09:18:37.430488+00:00",
-        "last_seen": "2026-11-26T02:54:30.759621+00:00",
+        "last_seen": "2026-11-27T23:34:31.835061+00:00",
         "source": "Bing RSS: SONDA carreiras estágio TI governança infraestrutura suporte",
         "url": "https://www.linkedin.com/company/sonda"
       },
@@ -2272,7 +2276,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-10-15T01:33:18.482340+00:00",
-        "last_seen": "2026-11-26T02:54:27.830667+00:00",
+        "last_seen": "2026-11-27T23:34:29.798257+00:00",
         "source": "Bing RSS: SONDA carreiras estágio TI governança infraestrutura suporte",
         "url": "https://www.linkedin.com/company/sonda/jobs"
       },
@@ -2438,9 +2442,9 @@
       },
       {
         "document": null,
-        "error": "HTTPError",
+        "error": null,
         "first_seen": "2026-09-30T12:45:23.308340+00:00",
-        "last_seen": "2026-11-25T19:25:09.730721+00:00",
+        "last_seen": "2026-11-27T23:34:28.234238+00:00",
         "source": "Bing RSS: Estagiário de Suporte Belo Horizonte MG",
         "url": "https://www.linkedin.com/jobs/microsoft-jobs-bellevue-wa"
       },
@@ -2448,7 +2452,7 @@
         "document": null,
         "error": "HTTPError",
         "first_seen": "2026-09-30T12:45:23.308355+00:00",
-        "last_seen": "2026-11-25T19:25:09.852049+00:00",
+        "last_seen": "2026-11-27T23:34:28.784513+00:00",
         "source": "Bing RSS: Estagiário de Suporte Belo Horizonte MG",
         "url": "https://www.linkedin.com/jobs/microsoft-jobs-bellevue-wa-jobs-bellevue-wa"
       },
@@ -2600,7 +2604,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-09-29T19:28:23.389719+00:00",
-        "last_seen": "2026-11-25T19:25:07.070582+00:00",
+        "last_seen": "2026-11-27T23:34:26.715983+00:00",
         "source": "Listagem oficial https://wyntech.gupy.io/",
         "url": "https://wyntech.gupy.io/jobs/12289824"
       },
@@ -2672,7 +2676,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-09-29T19:28:23.389775+00:00",
-        "last_seen": "2026-11-25T19:25:07.525559+00:00",
+        "last_seen": "2026-11-27T23:34:27.265821+00:00",
         "source": "Listagem oficial https://wyntech.gupy.io/",
         "url": "https://wyntech.gupy.io/jobs/12456160"
       },
@@ -2680,7 +2684,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-09-29T19:28:23.389855+00:00",
-        "last_seen": "2026-11-25T19:25:08.440962+00:00",
+        "last_seen": "2026-11-27T23:34:27.622626+00:00",
         "source": "Listagem oficial https://wyntech.gupy.io/",
         "url": "https://wyntech.gupy.io/jobs/12495692"
       },
@@ -2688,7 +2692,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-09-29T19:28:23.389816+00:00",
-        "last_seen": "2026-11-25T19:25:07.701181+00:00",
+        "last_seen": "2026-11-27T23:34:27.355502+00:00",
         "source": "Listagem oficial https://wyntech.gupy.io/",
         "url": "https://wyntech.gupy.io/jobs/12547202"
       },
@@ -2736,7 +2740,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-10-06T17:16:31.614241+00:00",
-        "last_seen": "2026-11-25T19:25:11.161563+00:00",
+        "last_seen": "2026-11-27T23:34:29.512389+00:00",
         "source": "Listagem oficial https://wyntech.gupy.io/",
         "url": "https://wyntech.gupy.io/jobs/12684272"
       },
@@ -2744,7 +2748,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-10-19T22:28:05.098963+00:00",
-        "last_seen": "2026-11-25T19:25:06.476523+00:00",
+        "last_seen": "2026-11-27T23:34:26.541969+00:00",
         "source": "Listagem oficial https://wyntech.gupy.io/",
         "url": "https://wyntech.gupy.io/jobs/12700500"
       },
@@ -2816,7 +2820,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-11-03T15:17:57.567826+00:00",
-        "last_seen": "2026-11-25T19:25:10.945241+00:00",
+        "last_seen": "2026-11-27T23:34:29.283143+00:00",
         "source": "Listagem oficial https://wyntech.gupy.io/",
         "url": "https://wyntech.gupy.io/jobs/12785040"
       },
@@ -2840,7 +2844,7 @@
         "document": null,
         "error": null,
         "first_seen": "2026-11-16T22:17:33.003771+00:00",
-        "last_seen": "2026-11-25T19:25:11.383939+00:00",
+        "last_seen": "2026-11-27T23:34:29.624145+00:00",
         "source": "Listagem oficial https://wyntech.gupy.io/",
         "url": "https://wyntech.gupy.io/jobs/12856523"
       },
@@ -2961,9 +2965,9 @@
         "fingerprint": "48fa4c8accb9559361aa8befae0faf1b38fdd3eea96ec283a3b0bc40f955208f",
         "first_seen": "2026-11-04T18:42:20.107729+00:00",
         "id": "064ac113e3958b467d3caa1ff6923dcf8aca8afdee9c9fdf3db5ab4bf3b9a4af",
-        "last_seen": "2026-11-25T19:25:10.744324+00:00",
+        "last_seen": "2026-11-27T23:34:29.210055+00:00",
         "reason": "Não há atividades de TI compatíveis comprovadas.",
-        "record": "{\"company\": \"Programa de Estágio - Santa Casa BH\", \"title\": \"Estágio Nível Médio - Técnico de Farmácia - Farmácia Satélite   \", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/12799006\", \"status\": \"pending\", \"reason\": \"Não há atividades de TI compatíveis comprovadas.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Curso: Técnico de Farmácia a partir do 1º módulo.\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"2026-12-18\", \"published\": \"2026-11-03\", \"source\": \"programadeestagiosantacasabh.gupy.io\", \"found_at\": \"2026-11-04T18:42:20.107729+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:10.743818+00:00\", \"description_hash\": \"4782db97403d3608a3d08d38886fd6202aa0b19ac330802760b66ddc2a0de3b8\", \"description_reviewed\": true, \"deadline_iso\": \"2026-12-18\", \"kind\": \"internship\"}",
+        "record": "{\"company\": \"Programa de Estágio - Santa Casa BH\", \"title\": \"Estágio Nível Médio - Técnico de Farmácia - Farmácia Satélite   \", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/12799006\", \"status\": \"pending\", \"reason\": \"Não há atividades de TI compatíveis comprovadas.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Curso: Técnico de Farmácia a partir do 1º módulo.\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"2026-12-18\", \"published\": \"2026-11-03\", \"source\": \"programadeestagiosantacasabh.gupy.io\", \"found_at\": \"2026-11-04T18:42:20.107729+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-27T23:34:29.209464+00:00\", \"description_hash\": \"4782db97403d3608a3d08d38886fd6202aa0b19ac330802760b66ddc2a0de3b8\", \"description_reviewed\": true, \"deadline_iso\": \"2026-12-18\", \"kind\": \"internship\"}",
         "status": "pending"
       },
       {
@@ -2979,7 +2983,7 @@
         "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-10-15T18:22:38.913484+00:00",
         "id": "08010d7f789032f801f46752f39e3ec32c2cfcd41c52c4c0a8e0d55f25cc2977",
-        "last_seen": "2026-11-26T02:54:28.114500+00:00",
+        "last_seen": "2026-11-27T23:34:30.102129+00:00",
         "reason": "Sem JobPosting público estruturado; não enviar automaticamente.",
         "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://www.linkedin.com/company/sonda/jobs\", \"status\": \"pending\", \"reason\": \"Sem JobPosting público estruturado; não enviar automaticamente.\", \"found_at\": \"2026-10-15T18:22:38.913484+00:00\"}",
         "status": "pending"
@@ -3021,21 +3025,21 @@
         "status": "pending"
       },
       {
-        "fingerprint": "a8e37a6e8bcf57706cc4e5bfc4398ee473e7621d716d8b1d1a00bb933f13bddf",
+        "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-10-07T01:38:17.860453+00:00",
         "id": "0e6a91138b9a9c450cb6dc3f74436d44a7e60076477b89c9705c17f65d76ad31",
-        "last_seen": "2026-11-25T19:25:11.318008+00:00",
+        "last_seen": "2026-11-27T23:34:29.604435+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Wyntech\", \"title\": \"ALMOXARIFE (TI) P/205- TIC\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12684272\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"wyntech.gupy.io\", \"found_at\": \"2026-10-07T01:38:17.860453+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:11.317660+00:00\", \"description_hash\": \"66c94ae7a0ce90ce99993439314ac418c98b87d54ea35c220d0ec1e9d0c6f121\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12684272\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"found_at\": \"2026-10-07T01:38:17.860453+00:00\"}",
         "status": "rejected"
       },
       {
         "fingerprint": "646f2e39a3b2af6098f4d99cb3a42d729ae310355cfb63dc18fd3562b0acda66",
         "first_seen": "2026-10-20T13:39:42.108185+00:00",
         "id": "10e8bb8203844fb7347ce1ae4f78e870adce49f694467e4c57cc71cda75cc607",
-        "last_seen": "2026-11-25T19:25:06.689407+00:00",
+        "last_seen": "2026-11-27T23:34:26.630481+00:00",
         "reason": "Prazo encerrado.",
-        "record": "{\"company\": \"Wyntech\", \"title\": \"SUPERVISOR DE ATENDIMENTO (TI) P/C7- TJMG\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12700500\", \"status\": \"rejected\", \"reason\": \"Prazo encerrado.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"wyntech.gupy.io\", \"found_at\": \"2026-10-20T13:39:42.108185+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:06.688949+00:00\", \"description_hash\": \"d7088c0713a0ff296550ad2de65f112bda3b6f508090b5ae0b244f27f4a265d0\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Wyntech\", \"title\": \"SUPERVISOR DE ATENDIMENTO (TI) P/C7- TJMG\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12700500\", \"status\": \"rejected\", \"reason\": \"Prazo encerrado.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"wyntech.gupy.io\", \"found_at\": \"2026-10-20T13:39:42.108185+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-27T23:34:26.629709+00:00\", \"description_hash\": \"d7088c0713a0ff296550ad2de65f112bda3b6f508090b5ae0b244f27f4a265d0\", \"description_reviewed\": true}",
         "status": "rejected"
       },
       {
@@ -3150,9 +3154,9 @@
         "fingerprint": "2aa54bc1eddab0d9663287d63fd49c90808d723e8f7aff7bb643df0fbfe91bed",
         "first_seen": "2026-09-29T00:29:38.876889+00:00",
         "id": "296f590a6cb5c695174f40df7fbf7352198d1daee5660da1d17c0fe5d31b3637",
-        "last_seen": "2026-11-25T19:25:09.144822+00:00",
+        "last_seen": "2026-11-27T23:34:27.973980+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Vem ser Teknisa! \", \"title\": \"Coordenador de Implantação de Sistemas - PDV [SP]\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://teknisa.gupy.io/jobs/12061554\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"teknisa.gupy.io\", \"found_at\": \"2026-09-29T00:29:38.876889+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:09.144070+00:00\", \"description_hash\": \"16541dff2441268c5e0e34b21d0a662d32aae856af0d39ed29723b1aab0975f2\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Vem ser Teknisa! \", \"title\": \"Coordenador de Implantação de Sistemas - PDV [SP]\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://teknisa.gupy.io/jobs/12061554\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"teknisa.gupy.io\", \"found_at\": \"2026-09-29T00:29:38.876889+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-27T23:34:27.973375+00:00\", \"description_hash\": \"16541dff2441268c5e0e34b21d0a662d32aae856af0d39ed29723b1aab0975f2\", \"description_reviewed\": true}",
         "status": "rejected"
       },
       {
@@ -3210,19 +3214,19 @@
         "status": "rejected"
       },
       {
-        "fingerprint": "dbdcf236678ac4990dd85682947ad639e965aa2ff40ffd338c1a77411ab33159",
+        "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-09-29T00:29:39.050896+00:00",
         "id": "345f086cf329515b3f2e4d91fd15bfa0c99a53694e2b73c12cf4d8f79a993449",
-        "last_seen": "2026-11-25T19:25:09.616881+00:00",
+        "last_seen": "2026-11-27T23:34:28.166244+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Vem ser Teknisa! \", \"title\": \"Estagiário Administrativo - Processos e Auditoria [BH]\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://teknisa.gupy.io/jobs/12434159\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"teknisa.gupy.io\", \"found_at\": \"2026-09-29T00:29:39.050896+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:09.616441+00:00\", \"description_hash\": \"5304c393e14efafb15b992633e3bc744d12e36833a58ceed91e1d04ad8d4e2b5\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://teknisa.gupy.io/jobs/12434159\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"found_at\": \"2026-09-29T00:29:39.050896+00:00\"}",
         "status": "rejected"
       },
       {
         "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-09-29T23:46:38.061951+00:00",
         "id": "34c31f9ccc460bcd77e77575ec1583ab6fe63d039571b0460332ce2a15ddfdf3",
-        "last_seen": "2026-11-25T19:25:08.020739+00:00",
+        "last_seen": "2026-11-27T23:34:27.441175+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
         "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12547202\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"found_at\": \"2026-09-29T23:46:38.061951+00:00\"}",
         "status": "rejected"
@@ -3267,9 +3271,9 @@
         "fingerprint": "d026a2d2ef3dd690496878b473f31b1eb94d3fea7e89fbe6aaf3d5ed8458a858",
         "first_seen": "2026-09-29T00:05:04.134317+00:00",
         "id": "3a0adf88fc5c73db8a269835d7f7e16b6e02c38bbddcc2880fd608426d13534d",
-        "last_seen": "2026-11-25T19:25:12.183238+00:00",
+        "last_seen": "2026-11-27T23:34:29.797508+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Cadastra\", \"title\": \"Estágio em Audiovisual e Infraestrutura de TI -SP\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://cadastra.gupy.io/jobs/12437989\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"cadastra.gupy.io\", \"found_at\": \"2026-09-29T00:05:04.134317+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:12.182736+00:00\", \"description_hash\": \"b79a3a9cfe76c3a2255f18ac07c77dfa960023e28cc8935cbe7a861c1c9fb2a0\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Cadastra\", \"title\": \"Estágio em Audiovisual e Infraestrutura de TI -SP\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://cadastra.gupy.io/jobs/12437989\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"cadastra.gupy.io\", \"found_at\": \"2026-09-29T00:05:04.134317+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-27T23:34:29.796820+00:00\", \"description_hash\": \"b79a3a9cfe76c3a2255f18ac07c77dfa960023e28cc8935cbe7a861c1c9fb2a0\", \"description_reviewed\": true}",
         "status": "rejected"
       },
       {
@@ -3357,9 +3361,9 @@
         "fingerprint": "2f9b1a960d5c52ce1a8d245ba84fa3bfa4ef402043b2b34557a1f42431499ee8",
         "first_seen": "2026-10-19T22:28:12.401514+00:00",
         "id": "473a2b26d7b5b2d7f28f3e4779183929b61c020c94dfd412283c9dc117decf10",
-        "last_seen": "2026-11-26T02:54:30.759173+00:00",
+        "last_seen": "2026-11-27T23:34:31.834152+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Programa de Estágio - Santa Casa BH\", \"title\": \"Estágio Nível Superior - Ambulatório Especializado - Enfermagem\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/11863196\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"programadeestagiosantacasabh.gupy.io\", \"found_at\": \"2026-10-19T22:28:12.401514+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-26T02:54:30.758748+00:00\", \"description_hash\": \"a7c130baf4e314df7241e5178156fc00743093cfd018f05e55280135b2335eaa\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Programa de Estágio - Santa Casa BH\", \"title\": \"Estágio Nível Superior - Ambulatório Especializado - Enfermagem\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/11863196\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"programadeestagiosantacasabh.gupy.io\", \"found_at\": \"2026-10-19T22:28:12.401514+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-27T23:34:31.833725+00:00\", \"description_hash\": \"a7c130baf4e314df7241e5178156fc00743093cfd018f05e55280135b2335eaa\", \"description_reviewed\": true}",
         "status": "rejected"
       },
       {
@@ -3399,21 +3403,21 @@
         "status": "pending"
       },
       {
-        "fingerprint": "98b9e610c938876ba272c0985ab5b47fa77f4dc4cc05c3914113006d95fff2ac",
+        "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-11-04T18:42:20.505414+00:00",
         "id": "4cee4005f3243028d2ac64833aede34fe1332fd32c2e494a6fe9b1d750d6acb9",
-        "last_seen": "2026-11-25T19:25:11.100572+00:00",
-        "reason": "Prazo encerrado.",
-        "record": "{\"company\": \"Wyntech\", \"title\": \"ANALISTA DE CONTRATOS - AREA CONTABIL\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12785040\", \"status\": \"rejected\", \"reason\": \"Prazo encerrado.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"wyntech.gupy.io\", \"found_at\": \"2026-11-04T18:42:20.505414+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:11.100074+00:00\", \"description_hash\": \"06440fa9f8a31ded4450b611f25ae3aeb78be7c639921b143d6a1869dac9009d\", \"description_reviewed\": true}",
-        "status": "rejected"
+        "last_seen": "2026-11-27T23:34:29.483283+00:00",
+        "reason": "Sem JobPosting público estruturado; não enviar automaticamente.",
+        "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12785040\", \"status\": \"pending\", \"reason\": \"Sem JobPosting público estruturado; não enviar automaticamente.\", \"found_at\": \"2026-11-04T18:42:20.505414+00:00\"}",
+        "status": "pending"
       },
       {
         "fingerprint": "44dfba0ba7d9cac5eed0ac61ff69359af32c86c5fc88aea52483eecad5b7e709",
         "first_seen": "2026-10-08T09:08:30.754034+00:00",
         "id": "4ee4797f60e708455d282dc45c54a19ed3ea52a0fb68f9a4006f960808ec3061",
-        "last_seen": "2026-11-25T19:25:08.894463+00:00",
+        "last_seen": "2026-11-27T23:34:27.819781+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Cadastra\", \"title\": \"Desenvolvedor Front End Pleno   \", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://cadastra.gupy.io/jobs/12395356\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"cadastra.gupy.io\", \"found_at\": \"2026-10-08T09:08:30.754034+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:08.894082+00:00\", \"description_hash\": \"95f5dbc7594c800fa9a0055be421448a01a9ada745e3381387b2fb482c2a395f\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Cadastra\", \"title\": \"Desenvolvedor Front End Pleno   \", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://cadastra.gupy.io/jobs/12395356\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"cadastra.gupy.io\", \"found_at\": \"2026-10-08T09:08:30.754034+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-27T23:34:27.819326+00:00\", \"description_hash\": \"95f5dbc7594c800fa9a0055be421448a01a9ada745e3381387b2fb482c2a395f\", \"description_reviewed\": true}",
         "status": "rejected"
       },
       {
@@ -3582,9 +3586,9 @@
         "fingerprint": "937bf5db3864956a96763f67bd829a59a09784a4522288fdd98eb714387d7d47",
         "first_seen": "2026-09-29T23:46:38.368823+00:00",
         "id": "663cc069d65a722779fa9ecfd045626adb5d1943e1ab8a64e6bc847af436dd3d",
-        "last_seen": "2026-11-25T19:25:08.591092+00:00",
+        "last_seen": "2026-11-27T23:34:27.710058+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Wyntech\", \"title\": \"TECNICO DE ATENDIMENTO N1\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12495692\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"wyntech.gupy.io\", \"found_at\": \"2026-09-29T23:46:38.368823+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:08.590763+00:00\", \"description_hash\": \"257baf121d1343b1445ca4ff77e0ccc525720bfe6246991571f0889870a77fbb\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Wyntech\", \"title\": \"TECNICO DE ATENDIMENTO N1\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12495692\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"wyntech.gupy.io\", \"found_at\": \"2026-09-29T23:46:38.368823+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-27T23:34:27.709628+00:00\", \"description_hash\": \"257baf121d1343b1445ca4ff77e0ccc525720bfe6246991571f0889870a77fbb\", \"description_reviewed\": true}",
         "status": "rejected"
       },
       {
@@ -3609,9 +3613,9 @@
         "fingerprint": "083cd98088ac35a07614b6d74da57058ba5f196f0fb5d7c390386a923b3b8ba5",
         "first_seen": "2026-11-04T18:42:19.917002+00:00",
         "id": "68090a982c6df5ea27b1c98bd7c041e24e4db835e04909a16363507331919eb2",
-        "last_seen": "2026-11-25T19:25:10.513085+00:00",
+        "last_seen": "2026-11-27T23:34:29.126969+00:00",
         "reason": "Não há atividades de TI compatíveis comprovadas.",
-        "record": "{\"company\": \"Programa de Estágio - Santa Casa BH\", \"title\": \"Estágio Nível Médio - Técnico de Farmácia - Farmácia Satélite  \", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/12798875\", \"status\": \"pending\", \"reason\": \"Não há atividades de TI compatíveis comprovadas.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Curso: Técnico de Farmácia a partir do 1º módulo.\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"2026-12-18\", \"published\": \"2026-11-03\", \"source\": \"programadeestagiosantacasabh.gupy.io\", \"found_at\": \"2026-11-04T18:42:19.917002+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:10.512644+00:00\", \"description_hash\": \"4782db97403d3608a3d08d38886fd6202aa0b19ac330802760b66ddc2a0de3b8\", \"description_reviewed\": true, \"deadline_iso\": \"2026-12-18\", \"kind\": \"internship\"}",
+        "record": "{\"company\": \"Programa de Estágio - Santa Casa BH\", \"title\": \"Estágio Nível Médio - Técnico de Farmácia - Farmácia Satélite  \", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/12798875\", \"status\": \"pending\", \"reason\": \"Não há atividades de TI compatíveis comprovadas.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Curso: Técnico de Farmácia a partir do 1º módulo.\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"2026-12-18\", \"published\": \"2026-11-03\", \"source\": \"programadeestagiosantacasabh.gupy.io\", \"found_at\": \"2026-11-04T18:42:19.917002+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-27T23:34:29.124808+00:00\", \"description_hash\": \"4782db97403d3608a3d08d38886fd6202aa0b19ac330802760b66ddc2a0de3b8\", \"description_reviewed\": true, \"deadline_iso\": \"2026-12-18\", \"kind\": \"internship\"}",
         "status": "pending"
       },
       {
@@ -3645,18 +3649,18 @@
         "fingerprint": "cfc16c08a1744df4a555300d1eaa24f16f09124e26aa24a19cf03d74ac3ff07a",
         "first_seen": "2026-10-27T23:50:34.035194+00:00",
         "id": "727a50cc264aae5ae32ea5f4f1378cd92fc96cafcfb2dfd77089cbdd05ff2a4d",
-        "last_seen": "2026-11-25T19:25:08.236603+00:00",
+        "last_seen": "2026-11-27T23:34:27.531173+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Programa de Estágio - Santa Casa BH\", \"title\": \"Estágio Nível Superior em Enfermagem - Protocolos Clínicos e Educação Permanente (Manhã)\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/12060457\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"programadeestagiosantacasabh.gupy.io\", \"found_at\": \"2026-10-27T23:50:34.035194+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:08.236000+00:00\", \"description_hash\": \"3a39113d6c2aaf985b2523e8dd38291fa4a53a6f364ce17ac238e6c09eadf822\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Programa de Estágio - Santa Casa BH\", \"title\": \"Estágio Nível Superior em Enfermagem - Protocolos Clínicos e Educação Permanente (Manhã)\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/12060457\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"programadeestagiosantacasabh.gupy.io\", \"found_at\": \"2026-10-27T23:50:34.035194+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-27T23:34:27.530725+00:00\", \"description_hash\": \"3a39113d6c2aaf985b2523e8dd38291fa4a53a6f364ce17ac238e6c09eadf822\", \"description_reviewed\": true}",
         "status": "rejected"
       },
       {
         "fingerprint": "48fa4c8accb9559361aa8befae0faf1b38fdd3eea96ec283a3b0bc40f955208f",
         "first_seen": "2026-11-04T18:42:20.271638+00:00",
         "id": "7364eaecb41ebb1c42193d76e9675695de462a68677532c0d38fb37bd9cad0f8",
-        "last_seen": "2026-11-25T19:25:10.944342+00:00",
+        "last_seen": "2026-11-27T23:34:29.282331+00:00",
         "reason": "Não há atividades de TI compatíveis comprovadas.",
-        "record": "{\"company\": \"Programa de Estágio - Santa Casa BH\", \"title\": \"Estágio Nível Médio - Técnico de Farmácia - Farmácia Satélite   \", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/12796851\", \"status\": \"pending\", \"reason\": \"Não há atividades de TI compatíveis comprovadas.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Curso: Técnico de Farmácia a partir do 1º módulo.\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"2026-12-18\", \"published\": \"2026-11-03\", \"source\": \"programadeestagiosantacasabh.gupy.io\", \"found_at\": \"2026-11-04T18:42:20.271638+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:10.943894+00:00\", \"description_hash\": \"4782db97403d3608a3d08d38886fd6202aa0b19ac330802760b66ddc2a0de3b8\", \"description_reviewed\": true, \"deadline_iso\": \"2026-12-18\", \"kind\": \"internship\"}",
+        "record": "{\"company\": \"Programa de Estágio - Santa Casa BH\", \"title\": \"Estágio Nível Médio - Técnico de Farmácia - Farmácia Satélite   \", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/12796851\", \"status\": \"pending\", \"reason\": \"Não há atividades de TI compatíveis comprovadas.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Curso: Técnico de Farmácia a partir do 1º módulo.\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"2026-12-18\", \"published\": \"2026-11-03\", \"source\": \"programadeestagiosantacasabh.gupy.io\", \"found_at\": \"2026-11-04T18:42:20.271638+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-27T23:34:29.281751+00:00\", \"description_hash\": \"4782db97403d3608a3d08d38886fd6202aa0b19ac330802760b66ddc2a0de3b8\", \"description_reviewed\": true, \"deadline_iso\": \"2026-12-18\", \"kind\": \"internship\"}",
         "status": "pending"
       },
       {
@@ -3672,9 +3676,9 @@
         "fingerprint": "f238e3248187a8fa09db1e2d5b1ac7938b5725a57f3dc8cf812c62ae7775c2d9",
         "first_seen": "2026-10-20T13:39:42.262232+00:00",
         "id": "75387020713b584767f8d723d57254474a17e4195f268e0110d87e29c492e347",
-        "last_seen": "2026-11-25T19:25:07.069728+00:00",
+        "last_seen": "2026-11-27T23:34:26.715141+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Vem ser Teknisa! \", \"title\": \"Auxiliar Administrativo [BH]\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://teknisa.gupy.io/jobs/12747605\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"teknisa.gupy.io\", \"found_at\": \"2026-10-20T13:39:42.262232+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:07.069242+00:00\", \"description_hash\": \"a8e9641a84cd44c8b22f87d94703b1332dbaa439f6989ae3b18786818d114f01\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Vem ser Teknisa! \", \"title\": \"Auxiliar Administrativo [BH]\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://teknisa.gupy.io/jobs/12747605\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"teknisa.gupy.io\", \"found_at\": \"2026-10-20T13:39:42.262232+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-27T23:34:26.714584+00:00\", \"description_hash\": \"a8e9641a84cd44c8b22f87d94703b1332dbaa439f6989ae3b18786818d114f01\", \"description_reviewed\": true}",
         "status": "rejected"
       },
       {
@@ -3690,9 +3694,9 @@
         "fingerprint": "f2dab7301d12d5da11bf2a184762ad67e8eb788ed1ed397fbc0a515967446e9f",
         "first_seen": "2026-09-29T00:29:38.958314+00:00",
         "id": "76c57d3e9a355d5169fba748bf55e061c1677ae345568092b4b8bc0844efab73",
-        "last_seen": "2026-11-25T19:25:09.338193+00:00",
+        "last_seen": "2026-11-27T23:34:28.076671+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Vem ser Teknisa! \", \"title\": \"Desenvolvedor Full Stack - Sênior [BH] \", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://teknisa.gupy.io/jobs/12514373\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"teknisa.gupy.io\", \"found_at\": \"2026-09-29T00:29:38.958314+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:09.337720+00:00\", \"description_hash\": \"b4ad75d26ed63be1106c55b7b80ff911653fa2c4a4e3a4b8696f09fa4b199394\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Vem ser Teknisa! \", \"title\": \"Desenvolvedor Full Stack - Sênior [BH] \", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://teknisa.gupy.io/jobs/12514373\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"teknisa.gupy.io\", \"found_at\": \"2026-09-29T00:29:38.958314+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-27T23:34:28.076040+00:00\", \"description_hash\": \"b4ad75d26ed63be1106c55b7b80ff911653fa2c4a4e3a4b8696f09fa4b199394\", \"description_reviewed\": true}",
         "status": "rejected"
       },
       {
@@ -3717,7 +3721,7 @@
         "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-10-09T21:45:53.393640+00:00",
         "id": "79f0ef8cb0c7b2b4728c71912392ca9afddf8d0ea5c580d46e228eb1dc1a766d",
-        "last_seen": "2026-11-26T02:54:31.429418+00:00",
+        "last_seen": "2026-11-27T23:34:32.493653+00:00",
         "reason": "Sem JobPosting público estruturado; não enviar automaticamente.",
         "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://www.linkedin.com/company/sonda\", \"status\": \"pending\", \"reason\": \"Sem JobPosting público estruturado; não enviar automaticamente.\", \"found_at\": \"2026-10-09T21:45:53.393640+00:00\"}",
         "status": "pending"
@@ -3939,12 +3943,12 @@
         "status": "pending"
       },
       {
-        "fingerprint": "1e26c38fa4cf62f24d38718daecc1790af80362d676254d116eec40be3cefb85",
+        "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-09-29T23:46:37.681453+00:00",
         "id": "a32298ff300680b8c37f6b8dc4a70e62a6fa77475c05810074d04d0b72640de4",
-        "last_seen": "2026-11-25T19:25:07.295441+00:00",
+        "last_seen": "2026-11-27T23:34:26.804814+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Wyntech\", \"title\": \"Banco de Talentos | Tecnologia da Informação – Todos os Níveis\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12289824\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"wyntech.gupy.io\", \"found_at\": \"2026-09-29T23:46:37.681453+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:07.294376+00:00\", \"description_hash\": \"af4944372df51004e001ca7b07d8ac8e64957f7187e81d239b9e380fd9dfb845\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12289824\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"found_at\": \"2026-09-29T23:46:37.681453+00:00\"}",
         "status": "rejected"
       },
       {
@@ -3957,12 +3961,12 @@
         "status": "pending"
       },
       {
-        "fingerprint": "eef44c78420dcaee2fb881f0ea2f0e0319b6096dbb0c01ed1dfa9bcf2ad4d63a",
+        "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-11-18T14:14:20.330538+00:00",
         "id": "a40c749fd221cf26264d08f36f19b7822438c2f35daf12e39fed5ea289e50624",
-        "last_seen": "2026-11-25T19:25:11.544686+00:00",
-        "reason": "Nível de entrada não comprovado.",
-        "record": "{\"company\": \"Wyntech\", \"title\": \"ANALISTA DE REDE (TI) P/202- TIC - (RIO DE JANEIRO - RJ)\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12856523\", \"status\": \"pending\", \"reason\": \"Nível de entrada não comprovado.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"2026-12-01\", \"published\": \"2026-11-16\", \"source\": \"wyntech.gupy.io\", \"found_at\": \"2026-11-18T14:14:20.330538+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:11.544205+00:00\", \"description_hash\": \"e41c878e5c59e84a6297c68fa9a370e1fd53380b09db3c31bfe52a098950d784\", \"description_reviewed\": true, \"deadline_iso\": \"2026-12-01\"}",
+        "last_seen": "2026-11-27T23:34:29.704875+00:00",
+        "reason": "Sem JobPosting público estruturado; não enviar automaticamente.",
+        "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12856523\", \"status\": \"pending\", \"reason\": \"Sem JobPosting público estruturado; não enviar automaticamente.\", \"found_at\": \"2026-11-18T14:14:20.330538+00:00\"}",
         "status": "pending"
       },
       {
@@ -4032,9 +4036,9 @@
         "fingerprint": "48c629f97eb846fb395b71347b62f0d8aefc5bedc56a9ac3cca2f4acc5ae285f",
         "first_seen": "2026-10-28T05:54:06.083706+00:00",
         "id": "b5d8099f131405ecd1943fcbffe44338ba307e81384a54bd6ddf86c23d98d4a9",
-        "last_seen": "2026-11-25T19:25:08.439930+00:00",
+        "last_seen": "2026-11-27T23:34:27.621833+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Programa de Estágio - Santa Casa BH\", \"title\": \"Estágio Nível Superior em Enfermagem - Protocolos Clínicos (Tarde)\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/12150276\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"programadeestagiosantacasabh.gupy.io\", \"found_at\": \"2026-10-28T05:54:06.083706+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:08.439580+00:00\", \"description_hash\": \"51369c55e802924e46c62a43ff72b9d36ecb9615436315803d047098d8f4eb79\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Programa de Estágio - Santa Casa BH\", \"title\": \"Estágio Nível Superior em Enfermagem - Protocolos Clínicos (Tarde)\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/12150276\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"programadeestagiosantacasabh.gupy.io\", \"found_at\": \"2026-10-28T05:54:06.083706+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-27T23:34:27.621411+00:00\", \"description_hash\": \"51369c55e802924e46c62a43ff72b9d36ecb9615436315803d047098d8f4eb79\", \"description_reviewed\": true}",
         "status": "rejected"
       },
       {
@@ -4059,8 +4063,8 @@
         "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-09-30T18:29:01.134831+00:00",
         "id": "b7b025bcd99a88bd74c52b88289d2757578d0ccdf5c5e0c8496d70a92bf9e11e",
-        "last_seen": "2026-11-23T14:53:30.132114+00:00",
-        "reason": "Revalidação falhou",
+        "last_seen": "2026-11-27T23:34:28.783678+00:00",
+        "reason": "Sem JobPosting público estruturado; não enviar automaticamente.",
         "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://www.linkedin.com/jobs/microsoft-jobs-bellevue-wa\", \"status\": \"pending\", \"reason\": \"Sem JobPosting público estruturado; não enviar automaticamente.\", \"found_at\": \"2026-09-30T18:29:01.134831+00:00\"}",
         "status": "pending"
       },
@@ -4077,9 +4081,9 @@
         "fingerprint": "67c23ac88dbb52f786a1dc4ab0741b4a0e709cc8d2a379b2eafd1fe969313819",
         "first_seen": "2026-10-21T07:47:48.081083+00:00",
         "id": "babee327d3053f4cdf6856e9940975e58748e924d34a056aff4a7405dfd22010",
-        "last_seen": "2026-11-25T19:25:10.166167+00:00",
+        "last_seen": "2026-11-27T23:34:28.906317+00:00",
         "reason": "Senioridade incompatível.",
-        "record": "{\"company\": \"Cadastra\", \"title\": \"Coordenador(a) de SEO/GEO | Porto Alegre \", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://cadastra.gupy.io/jobs/12745549\", \"status\": \"rejected\", \"reason\": \"Senioridade incompatível.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"2026-12-02\", \"published\": \"2026-10-20\", \"source\": \"cadastra.gupy.io\", \"found_at\": \"2026-10-21T07:47:48.081083+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:10.165695+00:00\", \"description_hash\": \"392a70222f1ea91b6edc05593d2b23b0885ad18f8a8bf7cd8dfd72ac0d80c292\", \"description_reviewed\": true, \"deadline_iso\": \"2026-12-02\"}",
+        "record": "{\"company\": \"Cadastra\", \"title\": \"Coordenador(a) de SEO/GEO | Porto Alegre \", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://cadastra.gupy.io/jobs/12745549\", \"status\": \"rejected\", \"reason\": \"Senioridade incompatível.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"2026-12-02\", \"published\": \"2026-10-20\", \"source\": \"cadastra.gupy.io\", \"found_at\": \"2026-10-21T07:47:48.081083+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-27T23:34:28.905541+00:00\", \"description_hash\": \"392a70222f1ea91b6edc05593d2b23b0885ad18f8a8bf7cd8dfd72ac0d80c292\", \"description_reviewed\": true, \"deadline_iso\": \"2026-12-02\"}",
         "status": "rejected"
       },
       {
@@ -4317,12 +4321,12 @@
         "status": "rejected"
       },
       {
-        "fingerprint": "4f91d30f8b7269bf8649f32d77402e630a447052b02a92b0d3e0d302988be5de",
+        "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-11-04T18:42:19.713285+00:00",
         "id": "e39f04650f33dc51fbf7dc3ffc89255fea30e8f15b3ef77fc9f92bdcbac47a01",
-        "last_seen": "2026-11-25T19:25:10.360955+00:00",
-        "reason": "Não há atividades de TI compatíveis comprovadas.",
-        "record": "{\"company\": \"Programa de Estágio - Santa Casa BH\", \"title\": \"Estágio Nível Médio - Infraestrutura de TI\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/12808323\", \"status\": \"pending\", \"reason\": \"Não há atividades de TI compatíveis comprovadas.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Curso: Ensino Técnico em informática em andamento e ter a idade mínima de 16 (dezesseis) anos.; Período(os): Inicial\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"2026-12-18\", \"published\": \"2026-11-03\", \"source\": \"programadeestagiosantacasabh.gupy.io\", \"found_at\": \"2026-11-04T18:42:19.713285+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:10.359129+00:00\", \"description_hash\": \"7eb4e2d0b2da3c5ca8b77ef835f5242f2d60272c1b91e247126fc5e57de503d2\", \"description_reviewed\": true, \"deadline_iso\": \"2026-12-18\", \"kind\": \"internship\"}",
+        "last_seen": "2026-11-27T23:34:29.049457+00:00",
+        "reason": "Sem JobPosting público estruturado; não enviar automaticamente.",
+        "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/12808323\", \"status\": \"pending\", \"reason\": \"Sem JobPosting público estruturado; não enviar automaticamente.\", \"found_at\": \"2026-11-04T18:42:19.713285+00:00\"}",
         "status": "pending"
       },
       {
@@ -4383,10 +4387,10 @@
         "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-09-29T00:05:04.134526+00:00",
         "id": "ecd626629f622df25e7f68e605c4f3f85eb908214d85f7620acc0fecd5cc3fce",
-        "last_seen": "2026-11-26T22:25:41.403141+00:00",
-        "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://teknisa.gupy.io/jobs/11851589\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"found_at\": \"2026-09-29T00:05:04.134526+00:00\"}",
-        "status": "rejected"
+        "last_seen": "2026-11-27T23:34:32.628659+00:00",
+        "reason": "Sem JobPosting público estruturado; não enviar automaticamente.",
+        "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://programadeestagiosantacasabh.gupy.io/jobs/11020764\", \"status\": \"pending\", \"reason\": \"Sem JobPosting público estruturado; não enviar automaticamente.\", \"found_at\": \"2026-09-29T00:05:04.134526+00:00\"}",
+        "status": "pending"
       },
       {
         "fingerprint": "aca9f67341a4f1be34e397ec72e68a23430f28b24b0b375e26017512de7ad7e9",
@@ -4407,12 +4411,12 @@
         "status": "pending"
       },
       {
-        "fingerprint": "4123a82aedc3a678cddf90f9bd435e6b305d2ac4556c2ae292386cdc4d800e08",
+        "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-09-29T23:46:37.866731+00:00",
         "id": "f10787dbde6b0a3d4f6ec9ab8a46b6b42cf72839cc7da8a0b9faca0c1e6cd3a5",
-        "last_seen": "2026-11-25T19:25:07.700306+00:00",
+        "last_seen": "2026-11-27T23:34:27.354685+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Wyntech\", \"title\": \"ESTAGIÁRIO EM TI - PORTO ALEGRE/RS\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12456160\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"wyntech.gupy.io\", \"found_at\": \"2026-09-29T23:46:37.866731+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:07.699944+00:00\", \"description_hash\": \"361cf331b832b31f8a4d362df3ba783e0f6686daa335b3d86d05801ddc3e5df3\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://wyntech.gupy.io/jobs/12456160\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"found_at\": \"2026-09-29T23:46:37.866731+00:00\"}",
         "status": "rejected"
       },
       {
@@ -4464,18 +4468,18 @@
         "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-10-19T22:28:10.953141+00:00",
         "id": "f7a88bf12057579003b1ef4e9338c0a44eae7b71f1907298d27cdc3f58b814d3",
-        "last_seen": "2026-11-26T02:54:29.382439+00:00",
+        "last_seen": "2026-11-27T23:34:30.845649+00:00",
         "reason": "Sem JobPosting público estruturado; não enviar automaticamente.",
         "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://www.linkedin.com/company/lhoist\", \"status\": \"pending\", \"reason\": \"Sem JobPosting público estruturado; não enviar automaticamente.\", \"found_at\": \"2026-10-19T22:28:10.953141+00:00\"}",
         "status": "pending"
       },
       {
-        "fingerprint": "6a646f4e6b2c6b72be9ed05e7498c82eedaeef0d43231b3bdb551c7579d3471d",
+        "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-11-05T22:42:28.240648+00:00",
         "id": "f9bd7d42c6fe367364f8c3cfe695b81a5937a31e1985476b8bd6be9af31ea505",
-        "last_seen": "2026-11-25T19:25:07.524618+00:00",
+        "last_seen": "2026-11-27T23:34:27.264943+00:00",
         "reason": "Candidaturas encerradas na página oficial.",
-        "record": "{\"company\": \"Cadastra\", \"title\": \"Engenheiro de Dados Sênior\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://cadastra.gupy.io/jobs/12782316\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"modality\": \"Não informado / precisa confirmar\", \"area\": \"Não informado / precisa confirmar\", \"salary\": \"Não informado / precisa confirmar\", \"benefits\": \"Não informado / precisa confirmar\", \"hours\": \"Não informado / precisa confirmar\", \"course\": \"Não informado / precisa confirmar\", \"semester\": \"Não informado / precisa confirmar\", \"graduation\": \"Não informado / precisa confirmar\", \"activities\": \"Não informado / precisa confirmar\", \"requirements\": \"Não informado / precisa confirmar\", \"desirable\": \"Não informado / precisa confirmar\", \"deadline\": \"Não informado / precisa confirmar\", \"published\": \"Não informado / precisa confirmar\", \"source\": \"cadastra.gupy.io\", \"found_at\": \"2026-11-05T22:42:28.240648+00:00\", \"compatibility\": \"Não informado / precisa confirmar\", \"verified_at\": \"2026-11-25T19:25:07.524140+00:00\", \"description_hash\": \"d0b92e1026ac20aa5f588c7880b34379db3d05bcbf0faddb5e249f4cf9a76382\", \"description_reviewed\": true}",
+        "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://cadastra.gupy.io/jobs/12782316\", \"status\": \"rejected\", \"reason\": \"Candidaturas encerradas na página oficial.\", \"found_at\": \"2026-11-05T22:42:28.240648+00:00\"}",
         "status": "rejected"
       },
       {
@@ -4516,6 +4520,15 @@
       },
       {
         "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
+        "first_seen": "2026-11-27T23:34:31.739212+00:00",
+        "id": "ff5867545584c891de433c1cf4d228558e2adca30c3c7a6826429c8f0ae8a86e",
+        "last_seen": "2026-11-27T23:34:31.739288+00:00",
+        "reason": "Sem JobPosting público estruturado; não enviar automaticamente.",
+        "record": "{\"company\": \"Não informado\", \"title\": \"Não informado\", \"location\": \"Não informado / precisa confirmar\", \"url\": \"https://www.accenture.com/us-en/careers\", \"status\": \"pending\", \"reason\": \"Sem JobPosting público estruturado; não enviar automaticamente.\", \"found_at\": \"2026-11-27T23:34:31.739212+00:00\"}",
+        "status": "pending"
+      },
+      {
+        "fingerprint": "5592b81f5ccc8bd9fad9cde7d81d493a0f26c1f9ab51d74255a7d12c34f29dab",
         "first_seen": "2026-10-14T13:49:57.705045+00:00",
         "id": "ff615a0c0c23e91cba444b2518100ac83a4c07c28f7008e93da247fda770aa53",
         "last_seen": "2026-11-26T02:54:39.610694+00:00",
@@ -4536,7 +4549,7 @@
     "meta": [
       {
         "key": "query_cursor",
-        "value": "71"
+        "value": "87"
       }
     ],
     "runs": [
@@ -6411,6 +6424,14 @@
         "id": 234,
         "started": "2026-11-27T15:14:58.556809+00:00",
         "status": "ok"
+      },
+      {
+        "command": "cloud:live",
+        "detail": null,
+        "finished": null,
+        "id": 235,
+        "started": "2026-11-27T23:34:15.853480+00:00",
+        "status": "running"
       }
     ],
     "sent": [
